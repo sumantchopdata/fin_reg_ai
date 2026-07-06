@@ -1,0 +1,20 @@
+financial-regulatory-assistant/
+│
+├── data/
+│   ├── raw_pdfs/
+│   ├── processed/
+│
+├── src/
+│   ├── extract.py
+│   ├── chunk.py
+│   ├── embed.py
+│   ├── retrieve.py
+│   ├── prompt.py
+│   ├── llm.py
+│   ├── app.py
+│
+├── vector_db/
+│
+├── requirements.txt
+│
+└── README.md
