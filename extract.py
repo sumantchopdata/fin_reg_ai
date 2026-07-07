@@ -30,13 +30,15 @@ def pdf_files_list(directory):
             pdf_files.append(os.path.join(directory, file))
     return pdf_files
 
-for pdf_file in tqdm(pdf_files_list("C:\\Users\\SUMANT\\Documents\\Projects\\data\\raw_pdfs"),
+data_path = "C:\\Users\\SUMANT\\Documents\\Projects\\fin_reg_ai\\fin_reg_ai\\data"
+
+for pdf_file in tqdm(pdf_files_list(os.path.join(data_path, "raw_pdfs")),
                      desc="Extracting text from PDFs"):
     text = extract_text_from_pdf(pdf_file)
     print(pdf_file.split('\\')[-1], len(text))
 
     # save each dictionary in the text object in the data\\processed folder
-    with open(os.path.join("C:\\Users\\SUMANT\\Documents\\Projects\\data\\processed",
+    with open(os.path.join(data_path, "processed",
                            os.path.basename(pdf_file.replace(".pdf", ".txt"))),
              "w", encoding="utf-8") as f:
         

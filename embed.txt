@@ -1,3 +1,0 @@
-# use BAAI/bge-small-en-v1.5 to convert the text in each chunk into embedding
-# and then save it to faiss vector database
-

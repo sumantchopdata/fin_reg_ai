@@ -87,7 +87,7 @@ def parse_document(lines):
     return pages
 
 
-def chunk_pages(pages, chunk_size=500, overlap=100):
+def chunk_pages(pages, chunk_size=500, overlap=100, index=0):
     """
     Create overlapping chunks from parsed pages.
 
@@ -100,11 +100,14 @@ def chunk_pages(pages, chunk_size=500, overlap=100):
             "text": "..."
         }
     ]
+
+    create an index for each chunk, starting from the index parameter.
+    This is useful when processing multiple documents in a loop.
     """
 
     chunks = []
 
-    chunk_id = 0
+    chunk_id = index  # Start chunk_id based on index to avoid collisions across documents
 
     current_words = []
     current_pages = []
@@ -183,20 +186,22 @@ def chunk_pages(pages, chunk_size=500, overlap=100):
 
     return chunks
 #%%
-# loop over all the files, create chunks for each file and save them in a json file in the data/processed folder
+# loop over all the files, create chunks for each file and save them in a json file in the data/vector_db folder
 
 import os
 import json
+
+prev_chunks = 0
+merged_data = []
 
 for file in os.listdir("data/processed"):
     if file.endswith(".txt"):
         lines = load_text_from_file(os.path.join("data/processed", file))
         pages = parse_document(lines)
-        chunks = chunk_pages(pages)
+        chunks = chunk_pages(pages, index=prev_chunks)
+        for chunk in chunks:
+            merged_data.append(chunk)
+        prev_chunks += len(chunks)
 
-        with open(os.path.join("data/processed",
-                                file.replace(".txt", "_chunks.json")),
-                                "w",
-                                encoding="utf-8"
-                               ) as f:
-            json.dump(chunks, f, indent=4)
+with open('data/vector_db/merged.json', 'w') as outfile:
+    json.dump(merged_data, outfile, indent=4)
