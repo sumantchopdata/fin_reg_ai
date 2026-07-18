@@ -1,27 +1,17 @@
 #%%
 # send the prompt to llm and print answer
 
-from ollama import chat
 from prompting import SYSTEM_PROMPT, user_prompt
 
-def ask_llm(user_prompt, SYSTEM_PROMPT=SYSTEM_PROMPT, model="qwen2.5:7b"):
+from prompting import SYSTEM_PROMPT, user_prompt
 
-    response = chat(
-        model=model,
-        messages=[
+def ask_llm(user_prompt, client, SYSTEM_PROMPT=SYSTEM_PROMPT,
+  model="gemini-2.5-flash"):
 
-        {
-            "role":"system",
-            "content":SYSTEM_PROMPT
-        },
+  full_prompt = SYSTEM_PROMPT + "\n\n" + user_prompt
 
-        {
-            "role":"user",
-            "content":user_prompt
-        }
-
-    ]
-    )
-
-    return response["message"]["content"]
-#%%
+  response = client.models.generate_content(
+    model=model,
+    contents=full_prompt
+  )
+  return response.text
