@@ -3,7 +3,7 @@
 
 from prompting import SYSTEM_PROMPT, user_prompt
 from llm import ask_llm
-from embed import embed_text, get_embedding_model, load_chunk_from_json
+from embed import embed_text, load_chunk_from_json
 from retrieve import load_faiss_index, retrieve_vectors, retrieve_chunks
 from dotenv import load_dotenv
 import os
@@ -20,7 +20,7 @@ except Exception:
 
 client = genai.Client(api_key=api_key)
 
-model = get_embedding_model()
+# model = get_embedding_model()
 
 index = load_faiss_index()
 #%%
@@ -38,6 +38,6 @@ my_chunks = retrieve_chunks(merged, I)
 u_prompt = user_prompt(my_chunks, query)
 print(len(u_prompt), len(SYSTEM_PROMPT))
 #%%
-answer = ask_llm(u_prompt, client)
+answer = ask_llm(u_prompt)
 print(answer)
 # %%

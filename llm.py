@@ -3,6 +3,7 @@
 
 from prompting import SYSTEM_PROMPT
 import os
+import json
 from dotenv import load_dotenv
 from google import genai
 
