@@ -8,7 +8,8 @@ query = st.text_input("Ask a question")
 
 if st.button("Search"):
 
-    answer = json.loads(ask_llm(query))
+    answer = ask_llm(query)
+    answer = json.loads(answer.replace("```json", "").replace("```", "").strip())
 
     st.write(answer["executive_summary"])
 
