@@ -3,6 +3,7 @@
 
 import sentence_transformers
 import faiss
+import streamlit as st
 
 def get_embedding_model():
     model_name = "BAAI/bge-small-en-v1.5"
@@ -15,6 +16,7 @@ def embed_text(text, model=None):
     embedding = model.encode(text)
     return embedding
 
+@st.cache_resource
 def load_faiss_index():
     index = faiss.read_index("data/vector_db/regulations.index")
     return index
