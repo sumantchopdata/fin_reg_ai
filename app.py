@@ -33,7 +33,7 @@ for col, doc in zip(cols_2, doc_list_2):
 examples = [
     "What is the Look-through approach?",
     "Explain the standardized approach for operational risk.",
-    "What are three three main processes the model lifecycle?",
+    "What are the three main processes the model lifecycle?",
     'What is the definition of model validation?'
 ]
 
