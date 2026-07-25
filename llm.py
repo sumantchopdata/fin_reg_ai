@@ -49,7 +49,7 @@ def ask_llm(user_prompt, SYSTEM_PROMPT=SYSTEM_PROMPT, model="gemini-3.5-flash"):
     client = create_client()
     response = client.models.generate_content(
         model=model,
-        contents='Say Hello.',
+        contents=full_prompt,
         config={
             "response_mime_type": "application/json",
             "response_schema": RAGAnswer,
