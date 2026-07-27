@@ -8,6 +8,7 @@
 
 import os
 import json
+from src.config import PROCESSED_PDF_DIR, MERGED_JSON
 
 def load_text_from_file(file_path):
     """
@@ -185,23 +186,20 @@ def chunk_pages(pages, chunk_size=500, overlap=100, index=0):
             })
 
     return chunks
-#%%
+
 # loop over all the files, create chunks for each file and save them in a json file in the data/vector_db folder
+if __name__ == '__main__':
+    prev_chunks = 0
+    merged_data = []
 
-import os
-import json
+    for file in os.listdir(PROCESSED_PDF_DIR):
+        if file.endswith(".txt"):
+            lines = load_text_from_file(PROCESSED_PDF_DIR)
+            pages = parse_document(lines)
+            chunks = chunk_pages(pages, index=prev_chunks)
+            for chunk in chunks:
+                merged_data.append(chunk)
+            prev_chunks += len(chunks)
 
-prev_chunks = 0
-merged_data = []
-
-for file in os.listdir("data/processed"):
-    if file.endswith(".txt"):
-        lines = load_text_from_file(os.path.join("data/processed", file))
-        pages = parse_document(lines)
-        chunks = chunk_pages(pages, index=prev_chunks)
-        for chunk in chunks:
-            merged_data.append(chunk)
-        prev_chunks += len(chunks)
-
-with open('data/vector_db/merged.json', 'w') as outfile:
-    json.dump(merged_data, outfile, indent=4)
+    with open(MERGED_JSON, 'w') as outfile:
+        json.dump(merged_data, outfile, indent=4)

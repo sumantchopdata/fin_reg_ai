@@ -1,7 +1,7 @@
 #%%
 # send the prompt to llm and print answer
 
-from prompting import SYSTEM_PROMPT
+from src.prompting import SYSTEM_PROMPT
 import os
 from dotenv import load_dotenv
 from google import genai

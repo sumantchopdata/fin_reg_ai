@@ -6,6 +6,7 @@ import sentence_transformers
 import faiss
 import numpy as np
 import json
+from src.config import FAISS_INDEX, MERGED_JSON
 
 def load_chunk_from_json(file_path):
     with open(file_path, 'r') as f:
@@ -44,13 +45,14 @@ def save_embeddings_to_faiss(embeddings, faiss_index):
 
     # Add embeddings to the FAISS index
     faiss_index.add(embeddings_array)
-#%%
+
 if __name__ == '__main__':
     model = get_embedding_model()
     
     # create one faiss index for all the chunks for all the files in the data/processed folder
+    # and store it in the data/vector_db folder.
     faiss_index = create_faiss_index(384)
-    merged_chunks = load_chunk_from_json("data/vector_db/merged.json")
+    merged_chunks = load_chunk_from_json(MERGED_JSON)
     embeddings = embed_chunks(merged_chunks, model)
     save_embeddings_to_faiss(embeddings, faiss_index)
-    faiss.write_index(faiss_index, "data/vector_db/regulations.index")
+    faiss.write_index(faiss_index, FAISS_INDEX)

@@ -4,10 +4,10 @@ st.set_page_config(layout="wide")
 with st.spinner("Loading the RAG system ..."):
 
     import os, google
-    from llm import ask_llm
-    from prompting import user_prompt
-    from embed import embed_text, load_chunk_from_json
-    from retrieve import load_faiss_index, retrieve_vectors, retrieve_chunks
+    from src.llm import ask_llm
+    from src.prompting import user_prompt
+    from src.embed import embed_text, load_chunk_from_json
+    from src.retrieve import load_faiss_index, retrieve_vectors, retrieve_chunks
 
 st.title("Financial Regulation Assistant")
 st.header('✨ Your one-stop AI-based solution to understand finance model-related regulations!')

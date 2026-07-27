@@ -1,20 +1,9 @@
 #%%
 # function for retrieval
 
-import sentence_transformers
 import faiss
 import streamlit as st
-
-def get_embedding_model():
-    model_name = "BAAI/bge-small-en-v1.5"
-    model = sentence_transformers.SentenceTransformer(model_name)
-    return model
-
-def embed_text(text, model=None):
-    if model is None:
-        model = get_embedding_model()
-    embedding = model.encode(text)
-    return embedding
+from src.embed import embed_text, get_embedding_model
 
 @st.cache_resource
 def load_faiss_index():

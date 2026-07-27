@@ -7,17 +7,12 @@ Only answer from the provided context.
 If the answer is not present, say that the information is unavailable.
 Never hallucinate.
 Always provide:
-
 1. Executive summary in simple language
-
 2. Technical explanation
-
 3. Evidence: Always provide Document name and page numbers. Provide sections and paragraph if available.
-
 4. Confidence (Low/Medium/High): Based on the infomration present in the context.
 
 Write your answer in a structured JSON format:
-
 {
   "executive_summary": "...",
   "technical_explanation": "...",
@@ -25,7 +20,6 @@ Write your answer in a structured JSON format:
     "Document 1, page 10",
     "Document 4, page 34, section III"
   ],
-
   "confidence": "High"
 }
 """
@@ -46,4 +40,3 @@ def user_prompt(retrieved_chunks, query):
     Question: {query}
     '''
     return prompt
-

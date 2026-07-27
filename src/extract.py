@@ -4,6 +4,8 @@
 import pymupdf
 import os
 from tqdm import tqdm
+from pathlib import Path
+from src.config import RAW_PDF_DIR, PROCESSED_PDF_DIR
 
 def extract_text_from_pdf(pdf_path):
     '''
@@ -24,24 +26,23 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 def pdf_files_list(directory):
+    '''
+    List the PDF files in the directory.
+    '''
     pdf_files = []
     for file in os.listdir(directory):
         if file.endswith(".pdf"):
             pdf_files.append(os.path.join(directory, file))
     return pdf_files
 
-data_path = "C:\\Users\\SUMANT\\Documents\\Projects\\fin_reg_ai\\fin_reg_ai\\data"
-
-for pdf_file in tqdm(pdf_files_list(os.path.join(data_path, "raw_pdfs")),
+for pdf_file in tqdm(pdf_files_list(RAW_PDF_DIR),
                      desc="Extracting text from PDFs"):
     text = extract_text_from_pdf(pdf_file)
     print(pdf_file.split('\\')[-1], len(text))
 
     # save each dictionary in the text object in the data\\processed folder
-    with open(os.path.join(data_path, "processed",
-                           os.path.basename(pdf_file.replace(".pdf", ".txt"))),
-             "w", encoding="utf-8") as f:
-        
+    output_file = PROCESSED_PDF_DIR / (Path(pdf_file).stem + ".txt")
+    with open(output_file, "w", encoding="utf-8") as f:
         for page_data in text:
             f.write(f"PDF File: {page_data['pdf_file']}\n")
             f.write(f"Page {page_data['page_number']}:\n")
