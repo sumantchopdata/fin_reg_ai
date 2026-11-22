@@ -3,7 +3,6 @@
 
 import faiss
 import streamlit as st
-from src.embed import embed_text, get_embedding_model
 
 @st.cache_resource
 def load_faiss_index():

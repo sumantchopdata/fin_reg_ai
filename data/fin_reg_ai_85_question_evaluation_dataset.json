@@ -1,0 +1,2986 @@
+[
+  {
+    "id": "PRA-01",
+    "question": "What is the PRA's definition of a model, and what kinds of inputs and outputs does the definition cover?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "definition",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "A model is a quantitative method, system or approach applying statistical, economic, financial or mathematical theories, techniques and assumptions to process input data into output. Inputs and outputs may be quantitative or qualitative, and inputs may also be expert-judgement based.",
+    "evidence_keywords": [
+      "quantitative method",
+      "statistical",
+      "economic",
+      "financial",
+      "mathematical",
+      "expert judgement",
+      "quantitative",
+      "qualitative"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "quantitative method",
+        "statistical",
+        "economic",
+        "financial",
+        "mathematical",
+        "expert judgement",
+        "quantitative",
+        "qualitative"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-02",
+    "question": "Why does the PRA expect firms to maintain a model inventory?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "governance",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "The model inventory helps firms identify sources of model risk, provide management information for reporting model risk, and identify model inter-dependencies.",
+    "evidence_keywords": [
+      "model inventory",
+      "sources of model risk",
+      "management information",
+      "inter-dependencies"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "model inventory",
+        "sources of model risk",
+        "management information",
+        "inter-dependencies"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-03",
+    "question": "What is the purpose of a risk-based model tiering approach under SS1/23?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "governance",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "The tiering approach categorises models to help identify and manage model risk, with validation intensity and rigour aligned to the model's risk/materiality.",
+    "evidence_keywords": [
+      "risk-based tiering",
+      "categorise models",
+      "manage model risk",
+      "validation"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "risk-based tiering",
+        "categorise models",
+        "manage model risk",
+        "validation"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-04",
+    "question": "What responsibilities does SS1/23 assign to model owners regarding model performance monitoring?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "governance",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Model owners are accountable for ensuring model performance is monitored against the firm's board-approved risk appetite for acceptable model performance, among other lifecycle responsibilities.",
+    "evidence_keywords": [
+      "model owners",
+      "performance monitoring",
+      "board-approved risk appetite"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "model owners",
+        "performance monitoring",
+        "board-approved risk appetite"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-05",
+    "question": "What does SS1/23 expect from the independence and expertise of model validation staff?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "validation",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Validators should have the technical expertise and sufficient familiarity with the relevant line of business to provide an objective, unbiased and critical opinion, together with sufficient organisational standing and incentives to report limitations.",
+    "evidence_keywords": [
+      "technical expertise",
+      "line of business",
+      "objective",
+      "unbiased",
+      "critical opinion",
+      "organisational standing"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "technical expertise",
+        "line of business",
+        "objective",
+        "unbiased",
+        "critical opinion",
+        "organisational standing"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-06",
+    "question": "What does Principle 3 of SS1/23 require firms to do during model development and use?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "development",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Firms should have a robust model development process covering design and implementation, model selection and performance measurement, with regular testing of data, model construct, assumptions and outcomes to identify, monitor, record and remediate limitations and weaknesses.",
+    "evidence_keywords": [
+      "Principle 3",
+      "model development",
+      "implementation",
+      "assumptions",
+      "model outcomes",
+      "remediate"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "Principle 3",
+        "model development",
+        "implementation",
+        "assumptions",
+        "model outcomes",
+        "remediate"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-07",
+    "question": "How does SS1/23 distinguish responsibility for model performance monitoring from responsibility for validation?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "governance",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "Performance monitoring may be undertaken by model owners, users or developers, but its adequacy is a key consideration for model validators; validation itself should be performed by appropriately independent staff.",
+    "evidence_keywords": [
+      "performance monitoring",
+      "model owners",
+      "users",
+      "developers",
+      "validators",
+      "independence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "performance monitoring",
+        "model owners",
+        "users",
+        "developers",
+        "validators",
+        "independence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-08",
+    "question": "What does the PRA expect firms to do with their self-assessments and remediation plans under SS1/23?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "governance",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Firms are expected to conduct an initial self-assessment, update self-assessments at least annually, and review and update remediation plans regularly. Findings and remediation plans should be documented and shared with the board in a timely manner.",
+    "evidence_keywords": [
+      "self-assessment",
+      "at least annually",
+      "remediation plans",
+      "board"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "self-assessment",
+        "at least annually",
+        "remediation plans",
+        "board"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-09",
+    "question": "A bank uses a deterministic algorithm rather than a statistical model, but the algorithm materially influences a complex business decision. Does SS1/23 say it can simply be excluded from model risk management?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "edge_case",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "No. The PRA says that material deterministic quantitative methods that are not classified as models should still be considered for application of relevant MRM aspects where they materially affect business decisions and are complex; their implementation and use should at least have sound, documented management controls.",
+    "evidence_keywords": [
+      "deterministic quantitative methods",
+      "material",
+      "business decisions",
+      "complex",
+      "management controls"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "deterministic quantitative methods",
+        "material",
+        "business decisions",
+        "complex",
+        "management controls"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-10",
+    "question": "Does SS1/23 say that its expectations are conditions for receiving internal model approval?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "negative",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "No. The statement says the expectations are not conditions for internal model approval; firms receiving permission to use an internal model for regulatory capital have 12 months from approval to comply with the policy.",
+    "evidence_keywords": [
+      "not conditions",
+      "internal model approval",
+      "12 months"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "not conditions",
+        "internal model approval",
+        "12 months"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-11",
+    "question": "What does SS1/23 say about models used for financial reporting and the audit committee?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "governance",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The PRA considers effective MRM for financial reporting relevant to the auditor's assessment of material misstatement and expects a report on MRM effectiveness for financial reporting to be available to the audit committee regularly and at least annually.",
+    "evidence_keywords": [
+      "financial reporting",
+      "material misstatement",
+      "audit committee",
+      "at least annually"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "financial reporting",
+        "material misstatement",
+        "audit committee",
+        "at least annually"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "PRA-12",
+    "question": "What model-lifecycle stages are explicitly covered by the high-level principles in SS1/23?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "lifecycle",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "The five high-level principles are designed to cover all elements of the model lifecycle, including identification and classification, development/implementation/use, validation, governance and related controls.",
+    "evidence_keywords": [
+      "five high-level principles",
+      "model lifecycle",
+      "identification",
+      "development",
+      "validation",
+      "governance"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "five high-level principles",
+        "model lifecycle",
+        "identification",
+        "development",
+        "validation",
+        "governance"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-01",
+    "question": "What are the three core elements of a comprehensive model validation framework in SR 11-7?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "validation",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "Evaluation of conceptual soundness, ongoing monitoring including process verification and benchmarking, and outcomes analysis including back-testing.",
+    "evidence_keywords": [
+      "conceptual soundness",
+      "ongoing monitoring",
+      "benchmarking",
+      "outcomes analysis",
+      "back-testing"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "conceptual soundness",
+        "ongoing monitoring",
+        "benchmarking",
+        "outcomes analysis",
+        "back-testing"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-02",
+    "question": "Why does SR 11-7 recommend sensitivity analysis during model development and validation?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "validation",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Sensitivity analysis tests how small changes in inputs and parameter values affect model outputs. Unexpectedly large changes can indicate instability, while varying multiple inputs can reveal unexpected interactions.",
+    "evidence_keywords": [
+      "sensitivity analysis",
+      "small changes",
+      "inputs",
+      "parameter values",
+      "unstable",
+      "interactions"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "sensitivity analysis",
+        "small changes",
+        "inputs",
+        "parameter values",
+        "unstable",
+        "interactions"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-03",
+    "question": "How does SR 11-7 distinguish sensitivity analysis from stress testing?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "validation",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Sensitivity analysis examines the effect of changes in inputs or parameters, including interactions; stress testing examines model performance across a wide range of inputs and parameter values, including extreme values, to assess robustness and boundaries of performance.",
+    "evidence_keywords": [
+      "sensitivity analysis",
+      "stress testing",
+      "extreme values",
+      "robust"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "sensitivity analysis",
+        "stress testing",
+        "extreme values",
+        "robust"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-04",
+    "question": "How often should a bank periodically review each model under SR 11-7?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "monitoring",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "At least annually, and more frequently when warranted. Material model changes should also be subject to validation.",
+    "evidence_keywords": [
+      "periodic review",
+      "at least annually",
+      "material changes",
+      "validation"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "periodic review",
+        "at least annually",
+        "material changes",
+        "validation"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-05",
+    "question": "What two broad types of model risk does SR 11-7 identify?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "model_risk",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Model risk can arise from fundamental errors in a model or from inappropriate use of the model.",
+    "evidence_keywords": [
+      "fundamental errors",
+      "inappropriate use"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "fundamental errors",
+        "inappropriate use"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-06",
+    "question": "What kinds of model-quality characteristics does SR 11-7 say can be used to assess model quality?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "validation",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The guidance identifies characteristics including precision, accuracy, discriminatory power, robustness, stability and reliability.",
+    "evidence_keywords": [
+      "precision",
+      "accuracy",
+      "discriminatory power",
+      "robustness",
+      "stability",
+      "reliability"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "precision",
+        "accuracy",
+        "discriminatory power",
+        "robustness",
+        "stability",
+        "reliability"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-07",
+    "question": "What should a bank do when a model's outcomes consistently fall outside an acceptable error range?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "monitoring",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The guidance says the model should be redeveloped when outcomes consistently fall outside the acceptable range established through analysis of outcomes around expected or predicted values.",
+    "evidence_keywords": [
+      "acceptable range",
+      "outcomes",
+      "redeveloped"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "acceptable range",
+        "outcomes",
+        "redeveloped"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-08",
+    "question": "How should a bank validate a vendor model when it cannot obtain full access to coding and implementation details?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "vendor_model",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The bank may need to rely more heavily on sensitivity analysis and benchmarking, while still validating its own use of the vendor product, documenting customization choices and assessing data and assumptions for relevance.",
+    "evidence_keywords": [
+      "vendor",
+      "coding",
+      "implementation",
+      "sensitivity analysis",
+      "benchmarking",
+      "customization"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "vendor",
+        "coding",
+        "implementation",
+        "sensitivity analysis",
+        "benchmarking",
+        "customization"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-09",
+    "question": "What does SR 11-7 expect banks to do if a vendor model is no longer available or supported?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "vendor_model",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Banks should maintain contingency plans for situations in which the vendor model is no longer available or cannot be supported by the vendor.",
+    "evidence_keywords": [
+      "contingency plans",
+      "vendor model",
+      "no longer available"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "contingency plans",
+        "vendor model",
+        "no longer available"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-10",
+    "question": "What is the role of internal audit in model risk management according to SR 11-7?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "governance",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "Internal audit should assess the overall effectiveness of the model risk management framework rather than duplicate MRM activities. It should evaluate whether MRM is comprehensive, rigorous and effective, including governance, validation, documentation, inventory, limits and supporting data/systems.",
+    "evidence_keywords": [
+      "internal audit",
+      "overall effectiveness",
+      "comprehensive",
+      "rigorous",
+      "effective",
+      "not duplicate"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "internal audit",
+        "overall effectiveness",
+        "comprehensive",
+        "rigorous",
+        "effective",
+        "not duplicate"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-11",
+    "question": "Can a bank's business unit independently decide to continue using a model despite validation identifying serious weaknesses, without any control function involvement?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "governance",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "No. The guidance describes risk-control responsibilities including effective challenge, communication of validation issues, and authority to restrict model use and monitor usage limits.",
+    "evidence_keywords": [
+      "risk controls",
+      "effective challenge",
+      "restrict use",
+      "model limitations"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "risk controls",
+        "effective challenge",
+        "restrict use",
+        "model limitations"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "SR-12",
+    "question": "What does SR 11-7 say about validating the bank's own use of a third-party model?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "vendor_model",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Even when a model is supplied by a vendor, the bank is expected to validate its own use of the vendor product and assess applicability, limitations, data, assumptions and customization.",
+    "evidence_keywords": [
+      "validate",
+      "own use",
+      "vendor",
+      "applicability",
+      "limitations"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "validate",
+        "own use",
+        "vendor",
+        "applicability",
+        "limitations"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-01",
+    "question": "How does IFRS 9 define expected credit losses?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "definition",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "Expected credit losses are a probability-weighted estimate of credit losses, defined as the present value of all cash shortfalls over the expected life of the financial instrument.",
+    "evidence_keywords": [
+      "probability-weighted",
+      "credit losses",
+      "present value",
+      "cash shortfalls",
+      "expected life"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "probability-weighted",
+        "credit losses",
+        "present value",
+        "cash shortfalls",
+        "expected life"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-02",
+    "question": "What is the key trigger for recognising lifetime expected credit losses under IFRS 9?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "impairment",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "Lifetime expected credit losses are recognised when there has been a significant increase in credit risk since initial recognition.",
+    "evidence_keywords": [
+      "lifetime expected credit losses",
+      "significant increase",
+      "credit risk",
+      "initial recognition"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "lifetime expected credit losses",
+        "significant increase",
+        "credit risk",
+        "initial recognition"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-03",
+    "question": "Is actual default at the reporting date required before lifetime expected credit losses are recognised?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "impairment",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "No. The assessment is based on a significant increase in the likelihood or risk of default since initial recognition, generally before the asset becomes credit-impaired or actually defaults.",
+    "evidence_keywords": [
+      "not actual default",
+      "likelihood",
+      "risk of default",
+      "credit-impaired"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "not actual default",
+        "likelihood",
+        "risk of default",
+        "credit-impaired"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-04",
+    "question": "Why can the same absolute increase in default risk be more significant for a low-risk instrument than for a high-risk instrument?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "impairment",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The significance of the change depends on the instrument's initial risk of default. The same absolute change is more significant relative to a lower initial risk than to a higher initial risk.",
+    "evidence_keywords": [
+      "initial risk",
+      "absolute change",
+      "lower initial risk",
+      "more significant"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "initial risk",
+        "absolute change",
+        "lower initial risk",
+        "more significant"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-05",
+    "question": "How does IFRS 9 treat the passage of time when assessing significant increases in credit risk?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "impairment",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "Because risk over the expected life generally decreases as an instrument approaches maturity when credit risk is unchanged, comparing absolute default risk without considering expected life can be misleading. Other qualitative factors may also need to be considered.",
+    "evidence_keywords": [
+      "expected life",
+      "passage of time",
+      "maturity",
+      "qualitative factors"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "expected life",
+        "passage of time",
+        "maturity",
+        "qualitative factors"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-06",
+    "question": "What does IFRS 9 say about grouping financial instruments when assessing significant increases in credit risk?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "measurement",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Financial instruments may be grouped based on shared credit-risk characteristics. If an entity cannot group instruments appropriately, it should recognise lifetime expected credit losses on the portion of assets for which credit risk is deemed to have increased significantly.",
+    "evidence_keywords": [
+      "group",
+      "shared credit risk characteristics",
+      "collective",
+      "lifetime expected credit losses"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "group",
+        "shared credit risk characteristics",
+        "collective",
+        "lifetime expected credit losses"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-07",
+    "question": "What happens to the impairment assessment if a modification of a financial asset results in derecognition of the original asset?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "modification",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The modified asset is treated as a new financial asset for impairment purposes, with the modification date treated as the date of initial recognition. Typically the loss allowance starts at 12-month expected credit losses until lifetime recognition criteria are met, subject to the possibility that the new asset is credit-impaired at initial recognition.",
+    "evidence_keywords": [
+      "derecognition",
+      "new financial asset",
+      "date of initial recognition",
+      "12-month",
+      "credit-impaired"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "derecognition",
+        "new financial asset",
+        "date of initial recognition",
+        "12-month",
+        "credit-impaired"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-08",
+    "question": "If a financial asset is modified but not derecognised, is it automatically considered to have lower credit risk?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "modification",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "No. The entity must assess whether credit risk has significantly increased since initial recognition using all reasonable and supportable information, including historical and forward-looking information.",
+    "evidence_keywords": [
+      "not automatically",
+      "lower credit risk",
+      "reasonable and supportable",
+      "historical",
+      "forward-looking"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "not automatically",
+        "lower credit risk",
+        "reasonable and supportable",
+        "historical",
+        "forward-looking"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-09",
+    "question": "What does IFRS 9 say about a single timely payment after a loan modification and the assessment of credit risk?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "modification",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "One timely payment would not typically erase a history of missed or incomplete payments. The borrower would generally need to demonstrate consistently good payment behaviour over a period before credit risk is considered to have decreased.",
+    "evidence_keywords": [
+      "single payment",
+      "missed",
+      "incomplete payments",
+      "consistently good payment behaviour"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "single payment",
+        "missed",
+        "incomplete payments",
+        "consistently good payment behaviour"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-10",
+    "question": "Why can a credit loss exist even when an entity expects to receive the full contractual amount?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "measurement",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Because expected credit losses consider both the amount and timing of cash flows, receiving the full amount later than contractually due creates a cash shortfall in present-value terms.",
+    "evidence_keywords": [
+      "amount and timing",
+      "cash shortfall",
+      "later",
+      "contractually due"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "amount and timing",
+        "cash shortfall",
+        "later",
+        "contractually due"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-11",
+    "question": "For a loan commitment, what change in risk is considered when applying the significant-increase-in-credit-risk assessment?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "loan_commitment",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The entity considers changes in the risk of default occurring on the loan to which the loan commitment relates.",
+    "evidence_keywords": [
+      "loan commitment",
+      "risk of default",
+      "loan"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "loan commitment",
+        "risk of default",
+        "loan"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "IFRS-12",
+    "question": "Does IFRS 9 require a single approach to assessing significant increases in credit risk or measuring expected credit losses for all financial instruments?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "methodology",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "No. The standard allows different approaches for different financial instruments when assessing significant increases in credit risk or measuring expected credit losses.",
+    "evidence_keywords": [
+      "various approaches",
+      "different financial instruments"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "various approaches",
+        "different financial instruments"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-01",
+    "question": "What was the main purpose of the EBA's IRB survey report?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "purpose",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "It provides an overview of modelling techniques used for estimating PD, LGD for non-defaulted and defaulted exposures, and ELBE, and assesses the impact of the Guidelines on PD, LGD and defaulted assets.",
+    "evidence_keywords": [
+      "IRB survey",
+      "PD",
+      "LGD",
+      "ELBE",
+      "impact assessment"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "IRB survey",
+        "PD",
+        "LGD",
+        "ELBE",
+        "impact assessment"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-02",
+    "question": "What was the population and time point represented by the EBA IRB survey results?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "dataset_scope",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The survey responses reflected modelling practices at the time of completion in January 2017 and covered approved models. The quantitative sample contained 102 institutions from 22 Member States.",
+    "evidence_keywords": [
+      "January 2017",
+      "102 institutions",
+      "22 Member States",
+      "approved models"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "January 2017",
+        "102 institutions",
+        "22 Member States",
+        "approved models"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-03",
+    "question": "What distinction does the EBA report make between model development and calibration?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "methodology",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Model development is the process leading to risk differentiation, while calibration is the process leading to appropriate risk quantification.",
+    "evidence_keywords": [
+      "model development",
+      "risk differentiation",
+      "calibration",
+      "risk quantification"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "model development",
+        "risk differentiation",
+        "calibration",
+        "risk quantification"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-04",
+    "question": "Does the EBA report require the default definition used for PD model development to be identical to the CRR definition?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "methodology",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "No. The report explains that the development definition need not be identical to the CRR definition, provided consistency is maintained during the observation period and the definition does not negatively affect risk differentiation and predictive power. The definition used for risk quantification is required to be consistent with the CRR definition.",
+    "evidence_keywords": [
+      "development",
+      "default definition",
+      "CRR",
+      "risk differentiation",
+      "risk quantification"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "development",
+        "default definition",
+        "CRR",
+        "risk differentiation",
+        "risk quantification"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-05",
+    "question": "What was the reported share of PD models using a default definition different from the CRR definition during model development?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "table",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "18% of PD models in the survey used a definition different from the CRR definition during model development, corresponding to 44 of 242 models in the reported table.",
+    "evidence_keywords": [
+      "18%",
+      "44",
+      "242",
+      "PD models"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "18%",
+        "44",
+        "242",
+        "PD models"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-06",
+    "question": "What is the purpose of calibration to the long-run average default rate according to the EBA report?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "calibration",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Calibration is intended to ensure that, for a calibration segment, PD estimates in the calibration sample correspond to the long-run average default rate at the level relevant for the applied calibration method.",
+    "evidence_keywords": [
+      "long-run average DR",
+      "PD estimates",
+      "calibration segment"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "long-run average DR",
+        "PD estimates",
+        "calibration segment"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-07",
+    "question": "How can portfolio-level versus grade-level calibration affect rating migrations and cyclicality?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "calibration",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "With portfolio-level calibration, obligors can migrate across grades during recalibration. With grade/pool-level calibration combined with PIT rating assignments, economic changes can be transmitted through rating migrations into average portfolio PD and hence cyclical capital requirements.",
+    "evidence_keywords": [
+      "portfolio calibration",
+      "grade calibration",
+      "rating migrations",
+      "cyclical capital requirements"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "portfolio calibration",
+        "grade calibration",
+        "rating migrations",
+        "cyclical capital requirements"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-08",
+    "question": "How should incomplete recovery processes be treated in LGD estimation according to the approach discussed in the EBA report?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "LGD",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The approach aligned with the Guidelines includes both recoveries realised up to the estimation point and estimated future recoveries.",
+    "evidence_keywords": [
+      "incomplete recovery",
+      "recoveries realised",
+      "estimated future recoveries"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "incomplete recovery",
+        "recoveries realised",
+        "estimated future recoveries"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-09",
+    "question": "What were the three most common categories of triggers for additional conservatism in PD model application shown in Table 67?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "table",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The listed triggers included missing ratings (35% of PD models), missing data in the current portfolio (33%), and outdated ratings in the current portfolio (25%). The question was multiple-select, so percentages need not sum to 100%.",
+    "evidence_keywords": [
+      "missing ratings",
+      "35%",
+      "missing data",
+      "33%",
+      "outdated ratings",
+      "25%"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "missing ratings",
+        "35%",
+        "missing data",
+        "33%",
+        "outdated ratings",
+        "25%"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-10",
+    "question": "What does the EBA report say about the frequency of review of estimates?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "monitoring",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The Guidelines specify an annual review of estimates, supported by a framework with minimum analysis scope, predefined metrics and standards, and predefined actions when deviations occur.",
+    "evidence_keywords": [
+      "annual review",
+      "predefined metrics",
+      "predefined standards",
+      "deviations"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "annual review",
+        "predefined metrics",
+        "predefined standards",
+        "deviations"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-11",
+    "question": "How does the EBA report describe the treatment of accounting provisions in ELBE estimation?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "ELBE",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The survey found accounting provisions were used for ELBE estimation in 26% of models and exposures; the report notes that the Guidelines would require a change in modelling practices for these models.",
+    "evidence_keywords": [
+      "accounting provisions",
+      "ELBE",
+      "26%"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "accounting provisions",
+        "ELBE",
+        "26%"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "EBA-12",
+    "question": "What limitation does the EBA report explicitly attach to interpreting its survey results?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "data_quality",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "The results depend on the quality of submitted survey responses and are therefore subject to data-quality issues; some respondents also appear not to have understood some questions as intended.",
+    "evidence_keywords": [
+      "quality",
+      "submitted responses",
+      "data quality",
+      "questions",
+      "understood"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "quality",
+        "submitted responses",
+        "data quality",
+        "questions",
+        "understood"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-01",
+    "question": "For corporate, sovereign and bank exposures under the Basel IRB approach, what does PD represent?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "IRB",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "PD is the one-year probability of default associated with the internal borrower grade to which the exposure is assigned.",
+    "evidence_keywords": [
+      "one-year PD",
+      "internal borrower grade"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "one-year PD",
+        "internal borrower grade"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-02",
+    "question": "What PD floor does the Basel Framework specify for corporate, sovereign and bank exposures, excluding sovereign exposures?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "IRB",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "For these exposures, except sovereign exposures, the PD used in the risk-weight formula and expected-loss calculation must not be less than 0.05%.",
+    "evidence_keywords": [
+      "0.05%",
+      "PD floor",
+      "corporate",
+      "sovereign",
+      "bank"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "0.05%",
+        "PD floor",
+        "corporate",
+        "sovereign",
+        "bank"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-03",
+    "question": "What happens to the PD of borrowers assigned to a default grade under the Basel IRB framework?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "IRB",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The PD is 100%, provided the default grade is consistent with the reference definition of default.",
+    "evidence_keywords": [
+      "default grade",
+      "100%",
+      "reference definition of default"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "default grade",
+        "100%",
+        "reference definition of default"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-04",
+    "question": "What two approaches can banks use to derive LGD for corporate, sovereign and bank exposures?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "IRB",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "Banks can use the foundation IRB approach or the advanced IRB approach for deriving LGD.",
+    "evidence_keywords": [
+      "LGD",
+      "foundation",
+      "advanced"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "LGD",
+        "foundation",
+        "advanced"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-05",
+    "question": "What are PD, LGD, EAD and M used for in the Basel IRB framework?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "IRB",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "They are the risk components used as inputs to the risk-weight functions for relevant asset classes.",
+    "evidence_keywords": [
+      "PD",
+      "LGD",
+      "EAD",
+      "M",
+      "risk-weight functions"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "PD",
+        "LGD",
+        "EAD",
+        "M",
+        "risk-weight functions"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-06",
+    "question": "What information about internal credit-risk models must banks disclose under the Basel Pillar 3 IRB disclosures?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "disclosure",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The disclosures include information on model development, controls and changes; independence of model review; reporting; scope of supervisory acceptance; exposure coverage; key models; and characteristics such as PD estimation/validation, LGD and credit conversion factors.",
+    "evidence_keywords": [
+      "model development",
+      "controls",
+      "independence",
+      "PD",
+      "LGD",
+      "credit conversion factors"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "model development",
+        "controls",
+        "independence",
+        "PD",
+        "LGD",
+        "credit conversion factors"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-07",
+    "question": "What is the purpose of the Basel CR6 disclosure template?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "disclosure",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "CR6 provides the main parameters used to calculate capital requirements for IRB models and aims to enhance transparency of banks' RWA calculations and the reliability of regulatory measures.",
+    "evidence_keywords": [
+      "CR6",
+      "main parameters",
+      "capital requirements",
+      "RWA",
+      "transparency"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "CR6",
+        "main parameters",
+        "capital requirements",
+        "RWA",
+        "transparency"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-08",
+    "question": "How frequently is the Basel CR6 IRB credit-risk disclosure template reported?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "disclosure",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "The CR6 template is mandatory for banks using F-IRB or A-IRB for some or all exposures and is reported semiannually.",
+    "evidence_keywords": [
+      "CR6",
+      "semiannual"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "CR6",
+        "semiannual"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-09",
+    "question": "What are the three components of the Basel standardised approach capital requirement for market risk?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "market_risk",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The capital requirement is the simple sum of the sensitivities-based method requirement, the default risk capital requirement and the residual risk add-on.",
+    "evidence_keywords": [
+      "sensitivities-based method",
+      "default risk capital",
+      "residual risk add-on"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "sensitivities-based method",
+        "default risk capital",
+        "residual risk add-on"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-10",
+    "question": "What does the Basel Framework expect banks to do about risk data during stress or crisis situations?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "risk_data",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Banks should be able to produce aggregated risk data rapidly during stress or crisis for all critical risks, with frequency requirements capable of producing timely, up-to-date information.",
+    "evidence_keywords": [
+      "stress",
+      "crisis",
+      "rapidly",
+      "aggregated risk data",
+      "critical risks"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "stress",
+        "crisis",
+        "rapidly",
+        "aggregated risk data",
+        "critical risks"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-11",
+    "question": "What does Basel mean by adaptability in risk data aggregation?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "risk_data",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Adaptability means risk data aggregation should be flexible enough to support ad hoc requests and emerging risks, including customisation, incorporation of business or external changes, and regulatory changes.",
+    "evidence_keywords": [
+      "adaptability",
+      "ad hoc",
+      "emerging risks",
+      "regulatory framework"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "adaptability",
+        "ad hoc",
+        "emerging risks",
+        "regulatory framework"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "BAS-12",
+    "question": "A bank wants to reduce its leverage-ratio exposure measure by netting collateral received against derivative exposures. Does the Basel Framework permit that?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "leverage_ratio",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "No. Collateral received may not be netted against derivative exposures for the leverage-ratio exposure measure, even where netting is permitted under accounting or risk-based frameworks.",
+    "evidence_keywords": [
+      "collateral received",
+      "not netted",
+      "derivative exposures",
+      "leverage ratio"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "collateral received",
+        "not netted",
+        "derivative exposures",
+        "leverage ratio"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-01",
+    "question": "Compare the role of model validation in PRA SS1/23 and SR 11-7. What common objective do the two documents assign to validation?",
+    "expected_documents": [
+      "PRA SS1/23",
+      "SR 11-7"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "Both treat validation as an independent, critical challenge intended to assess model suitability/soundness and identify limitations or model risk. PRA SS1/23 emphasises objective and unbiased validation; SR 11-7 emphasises conceptual soundness, monitoring and outcomes analysis.",
+    "evidence_keywords": [
+      "validation",
+      "objective",
+      "independent",
+      "soundness",
+      "limitations"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23",
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "validation",
+        "objective",
+        "independent",
+        "soundness",
+        "limitations"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-02",
+    "question": "A bank is building an IRB PD model. Which aspects of model development should it consider under the EBA report, and what broader governance principles would PRA SS1/23 expect around the model lifecycle?",
+    "expected_documents": [
+      "EBA IRB modelling practices",
+      "PRA SS1/23"
+    ],
+    "category": "cross_document",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The EBA report discusses risk differentiation, calibration, data representativeness and default definitions for PD development. PRA SS1/23 adds lifecycle governance such as model ownership, tiering, documentation, validation and performance monitoring.",
+    "evidence_keywords": [
+      "risk differentiation",
+      "calibration",
+      "data representativeness",
+      "model owner",
+      "tiering",
+      "validation",
+      "monitoring"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices",
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "risk differentiation",
+        "calibration",
+        "data representativeness",
+        "model owner",
+        "tiering",
+        "validation",
+        "monitoring"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-03",
+    "question": "How do IFRS 9 and the EBA IRB report differ in their treatment of credit-risk measurement objectives?",
+    "expected_documents": [
+      "IFRS 9",
+      "EBA IRB modelling practices"
+    ],
+    "category": "cross_document",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "IFRS 9 defines expected credit losses as probability-weighted present-value cash shortfalls and focuses on impairment recognition and measurement. The EBA report focuses on IRB regulatory risk-parameter estimation practices such as PD, LGD and ELBE and their calibration/estimation requirements.",
+    "evidence_keywords": [
+      "expected credit losses",
+      "cash shortfalls",
+      "PD",
+      "LGD",
+      "ELBE",
+      "calibration"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9",
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "expected credit losses",
+        "cash shortfalls",
+        "PD",
+        "LGD",
+        "ELBE",
+        "calibration"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-04",
+    "question": "A model validator finds that a credit model performs well statistically but has poorly documented assumptions. How would SR 11-7 and PRA SS1/23 each frame this issue?",
+    "expected_documents": [
+      "SR 11-7",
+      "PRA SS1/23"
+    ],
+    "category": "cross_document",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "Both documents treat assumptions and conceptual/design soundness as important parts of validation, so strong statistical outcomes do not eliminate the need to understand and document assumptions and limitations.",
+    "evidence_keywords": [
+      "assumptions",
+      "conceptual soundness",
+      "validation",
+      "limitations"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7",
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "assumptions",
+        "conceptual soundness",
+        "validation",
+        "limitations"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-05",
+    "question": "An IRB model has missing data in the current portfolio. Which document directly discusses additional conservatism for this situation, and what related MRM concept would PRA SS1/23 make relevant?",
+    "expected_documents": [
+      "EBA IRB modelling practices",
+      "PRA SS1/23"
+    ],
+    "category": "cross_document",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "The EBA report lists missing current-portfolio data as a trigger for additional conservatism in PD-model application. PRA SS1/23 would make data quality, model limitations and performance monitoring relevant to identifying and managing the resulting model risk.",
+    "evidence_keywords": [
+      "missing data",
+      "additional conservatism",
+      "data quality",
+      "limitations",
+      "monitoring"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices",
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "missing data",
+        "additional conservatism",
+        "data quality",
+        "limitations",
+        "monitoring"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-06",
+    "question": "A bank modifies a loan and derecognises the original asset. How does IFRS 9's treatment of the modified asset differ conceptually from Basel's use of PD, LGD and EAD in capital calculations?",
+    "expected_documents": [
+      "IFRS 9",
+      "Basel Framework"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "IFRS 9 treats the derecognised-and-replaced asset as a new financial asset for impairment purposes. Basel's IRB framework uses risk components such as PD, LGD and EAD as inputs to regulatory risk-weight calculations; the documents address different measurement frameworks and purposes.",
+    "evidence_keywords": [
+      "new financial asset",
+      "impairment",
+      "PD",
+      "LGD",
+      "EAD",
+      "risk-weight"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9",
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "new financial asset",
+        "impairment",
+        "PD",
+        "LGD",
+        "EAD",
+        "risk-weight"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-07",
+    "question": "How do the Basel Framework and SR 11-7 both address model/data reliability?",
+    "expected_documents": [
+      "Basel Framework",
+      "SR 11-7"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "SR 11-7 requires assessment of data relevance and model reliability through validation and outcomes analysis. Basel requires risk data aggregation to be accurate, complete, timely and adaptable, with controls and validation of data quality.",
+    "evidence_keywords": [
+      "reliability",
+      "data",
+      "validation",
+      "accuracy",
+      "complete",
+      "timely"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework",
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "reliability",
+        "data",
+        "validation",
+        "accuracy",
+        "complete",
+        "timely"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-08",
+    "question": "A vendor supplies a credit-risk model used for regulatory reporting. Which two documents provide directly relevant guidance on how the bank should control this situation?",
+    "expected_documents": [
+      "SR 11-7",
+      "PRA SS1/23"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "SR 11-7 directly addresses validation of vendor models, including limitations, assumptions, benchmarking and contingency planning. PRA SS1/23 provides broader lifecycle governance, ownership, validation and model inventory expectations applicable to the firm's MRM framework.",
+    "evidence_keywords": [
+      "vendor",
+      "validation",
+      "benchmarking",
+      "contingency",
+      "model inventory",
+      "ownership"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7",
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "vendor",
+        "validation",
+        "benchmarking",
+        "contingency",
+        "model inventory",
+        "ownership"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-09",
+    "question": "A model's outputs change dramatically after a very small change in an input. Which validation concept in SR 11-7 is most directly relevant, and what PRA lifecycle activity should follow if the weakness is material?",
+    "expected_documents": [
+      "SR 11-7",
+      "PRA SS1/23"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "SR 11-7 identifies sensitivity analysis as a way to detect instability from small input changes. Under PRA SS1/23, the limitation should be identified, monitored, recorded and remediated through the model lifecycle and appropriate validation/governance.",
+    "evidence_keywords": [
+      "sensitivity analysis",
+      "unstable",
+      "limitation",
+      "remediated",
+      "validation"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7",
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "sensitivity analysis",
+        "unstable",
+        "limitation",
+        "remediated",
+        "validation"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-10",
+    "question": "What is a common theme between IFRS 9's forward-looking information requirement and the EBA report's concern with representativeness of data?",
+    "expected_documents": [
+      "IFRS 9",
+      "EBA IRB modelling practices"
+    ],
+    "category": "cross_document",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "Both require model/measurement processes to use information that is relevant to the risk being assessed: IFRS 9 requires reasonable and supportable historical and forward-looking information for credit-risk assessment, while the EBA discusses representativeness of data for risk differentiation and quantification.",
+    "evidence_keywords": [
+      "forward-looking",
+      "reasonable and supportable",
+      "representativeness",
+      "risk differentiation",
+      "risk quantification"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9",
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "forward-looking",
+        "reasonable and supportable",
+        "representativeness",
+        "risk differentiation",
+        "risk quantification"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-11",
+    "question": "Which document in the corpus contains survey percentages for current IRB modelling practices, and why should those percentages not be presented as current industry-wide statistics?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The EBA report contains survey percentages, but the survey reflects practices at the time of completion in January 2017 and covers a defined sample of institutions and approved models. Therefore the figures should be described with that population and time context.",
+    "evidence_keywords": [
+      "January 2017",
+      "survey",
+      "sample",
+      "approved models",
+      "percentages"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "January 2017",
+        "survey",
+        "sample",
+        "approved models",
+        "percentages"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-12",
+    "question": "A RAG answer claims that 'all models must be validated annually.' Which source would you inspect first, and what nuance should the answer preserve?",
+    "expected_documents": [
+      "SR 11-7",
+      "PRA SS1/23"
+    ],
+    "category": "cross_document",
+    "difficulty": "hard",
+    "answerable": true,
+    "reference_answer": "SR 11-7 should be inspected first because it explicitly says banks should conduct a periodic review at least annually and material changes should be validated. The answer should not overgeneralise this into an identical annual full-validation requirement for every circumstance; the guidance distinguishes periodic review from the full validation process.",
+    "evidence_keywords": [
+      "at least annually",
+      "periodic review",
+      "material changes",
+      "full validation"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7",
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "at least annually",
+        "periodic review",
+        "material changes",
+        "full validation"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-13",
+    "question": "Which source would you use to answer a question about the minimum PD floor for corporate IRB exposures, and why would the EBA survey report not be the primary source?",
+    "expected_documents": [
+      "Basel Framework",
+      "EBA IRB modelling practices"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "The Basel Framework is the primary source because it states the regulatory PD floor. The EBA report is primarily a survey and impact-assessment document describing modelling practices and policy choices rather than being the corpus's primary statement of the Basel PD floor.",
+    "evidence_keywords": [
+      "Basel Framework",
+      "0.05%",
+      "PD floor",
+      "survey"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework",
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "Basel Framework",
+        "0.05%",
+        "PD floor",
+        "survey"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-14",
+    "question": "A user asks whether a single on-time payment after a distressed-loan modification proves that credit risk has decreased. Which source contains the most direct answer, and what does it say?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "cross_document",
+    "difficulty": "easy",
+    "answerable": true,
+    "reference_answer": "IFRS 9 gives the direct answer: a single timely payment would not typically erase a history of missed or incomplete payments; consistently good payment behaviour over a period is generally needed before credit risk is considered to have decreased.",
+    "evidence_keywords": [
+      "single payment",
+      "missed",
+      "consistently good payment behaviour"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "single payment",
+        "missed",
+        "consistently good payment behaviour"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "X-15",
+    "question": "Which two sources would you combine to evaluate whether a financial model is both technically sound and appropriately governed, and what distinct evidence would each contribute?",
+    "expected_documents": [
+      "SR 11-7",
+      "PRA SS1/23"
+    ],
+    "category": "cross_document",
+    "difficulty": "medium",
+    "answerable": true,
+    "reference_answer": "SR 11-7 contributes validation evidence such as conceptual soundness, sensitivity analysis, monitoring, benchmarking and outcomes analysis. PRA SS1/23 contributes lifecycle governance evidence such as model ownership, tiering, inventory, validation independence and performance monitoring.",
+    "evidence_keywords": [
+      "conceptual soundness",
+      "sensitivity",
+      "benchmarking",
+      "outcomes",
+      "ownership",
+      "tiering",
+      "inventory"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7",
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "conceptual soundness",
+        "sensitivity",
+        "benchmarking",
+        "outcomes",
+        "ownership",
+        "tiering",
+        "inventory"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-01",
+    "question": "What accuracy percentage did the RAG system achieve on the PRA SS1/23 document?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-02",
+    "question": "Which of the five documents recommends using FAISS for semantic search?",
+    "expected_documents": [
+      "PRA SS1/23",
+      "EBA IRB modelling practices",
+      "IFRS 9",
+      "SR 11-7",
+      "Basel Framework"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23",
+        "EBA IRB modelling practices",
+        "IFRS 9",
+        "SR 11-7",
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-03",
+    "question": "What was the average F1 score of EBA's IRB models in the survey?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-04",
+    "question": "What neural-network architecture does IFRS 9 prescribe for expected credit-loss modelling?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-05",
+    "question": "What embedding model does the Basel Committee recommend for searching the Basel Framework?",
+    "expected_documents": [
+      "Basel Framework"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-06",
+    "question": "What is the recommended cosine-similarity threshold for retrieving SR 11-7 passages?",
+    "expected_documents": [
+      "SR 11-7"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "SR 11-7"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-07",
+    "question": "How many tokens should a bank use when chunking model-validation documentation under PRA SS1/23?",
+    "expected_documents": [
+      "PRA SS1/23"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-08",
+    "question": "What percentage of banks in the EBA survey used transformer-based PD models?",
+    "expected_documents": [
+      "EBA IRB modelling practices"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "EBA IRB modelling practices"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-09",
+    "question": "What is the annual API cost assumed by IFRS 9 for generating expected credit-loss forecasts?",
+    "expected_documents": [
+      "IFRS 9"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "IFRS 9"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  },
+  {
+    "id": "NEG-10",
+    "question": "Which of the five documents states that GPT-4 should be used for model validation?",
+    "expected_documents": [
+      "PRA SS1/23",
+      "EBA IRB modelling practices",
+      "IFRS 9",
+      "SR 11-7",
+      "Basel Framework"
+    ],
+    "category": "unanswerable",
+    "difficulty": "hard",
+    "answerable": false,
+    "reference_answer": "The corpus does not provide this information. A correct RAG response should explicitly state that the answer cannot be determined from the supplied documents rather than inventing a value or recommendation.",
+    "evidence_keywords": [
+      "not in corpus",
+      "cannot be determined",
+      "insufficient evidence"
+    ],
+    "retrieval_target": {
+      "documents": [
+        "PRA SS1/23",
+        "EBA IRB modelling practices",
+        "IFRS 9",
+        "SR 11-7",
+        "Basel Framework"
+      ],
+      "must_retrieve_evidence": [
+        "not in corpus",
+        "cannot be determined",
+        "insufficient evidence"
+      ]
+    },
+    "evaluation_notes": {
+      "retrieval": "Relevant source/chunk(s) should be retrieved.",
+      "faithfulness": "Every factual claim in the answer should be supported by retrieved text.",
+      "citation": "Citations should point to the source(s) actually supporting the claims.",
+      "abstention": "For unanswerable cases, the system should abstain rather than fabricate."
+    }
+  }
+]
