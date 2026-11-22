@@ -14,10 +14,11 @@ def retrieve_vectors(query_embedding, index, k=3):
     return I.tolist()[0]
 
 def retrieve_chunks(chunk_list, I):
-    '''
-    chunk_list is list of dicts, I = list of retrieved vectors
-    '''
-    retrieved_chunks = [chunk for chunk in chunk_list for i in I
-                        if chunk['chunk_id'] == i]
+    """
+    chunk_list: list of chunks in the same order used to build FAISS index
+    I: FAISS vector positions
+    """
+
+    retrieved_chunks = [chunk_list[i] for i in I if 0 <= i < len(chunk_list)]
 
     return retrieved_chunks

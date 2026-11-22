@@ -47,7 +47,7 @@ for question in tqdm(df.question):
         question,
         retrieved_chunks,
     ])
-#%%
+
 evaluation_results_df = pd.DataFrame(evaluation_results, columns=['question', 'retrieved_chunks'])
 evaluation_results_df.to_csv('data/fin_reg_ai_75_question_evaluation_results.csv', index=False)
 # %%

@@ -1,4 +1,4 @@
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 1:
 IFRS 9
 Financial Instruments
@@ -45,7 +45,7 @@ IFRS 9
 © IFRS Foundation
 A365
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 2:
 In September 2019 the Board amended IFRS 9 and IAS 39 by issuing Interest Rate Benchmark
 Reform to provide specific exceptions to hedge accounting requirements in IFRS 9 and
@@ -77,7 +77,7 @@ IFRS 9
 A366
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 3:
 CONTENTS
 from paragraph
@@ -154,7 +154,7 @@ IFRS 9
 © IFRS Foundation
 A367
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 4:
 ...continued
 7.2 Transition
@@ -194,7 +194,7 @@ IFRS 9
 A368
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 5:
 International Financial Reporting Standard 9 Financial Instruments (IFRS 9) is set out
 in paragraphs 1.1–7.3.2 and Appendices A–C. All the paragraphs have equal authority.
@@ -209,7 +209,7 @@ IFRS 9
 © IFRS Foundation
 A369
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 6:
 International Financial Reporting Standard 9
 Financial Instruments
@@ -265,7 +265,7 @@ IFRS 9
 A370
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 7:
 (e)
 rights and obligations arising under an insurance contract as
@@ -326,7 +326,7 @@ IFRS 9
 © IFRS Foundation
 A371
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 8:
 (g)
 loan commitments other than those loan commitments described
@@ -392,7 +392,7 @@ IFRS 9
 A372
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 9:
 applied to those contracts that an entity designates as measured at fair
 value through profit or loss in accordance with paragraph 2.5.
@@ -449,7 +449,7 @@ IFRS 9
 © IFRS Foundation
 A373
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 10:
 receipt or delivery of the non-financial item in accordance with the entity’s
 expected purchase, sale or usage requirements.
@@ -507,7 +507,7 @@ IFRS 9
 A374
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 11:
 (ii)
 The part comprises only a fully proportionate (pro rata) share
@@ -563,7 +563,7 @@ IFRS 9
 © IFRS Foundation
 A375
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 12:
 (a)
 transfers the contractual rights to receive the cash flows of the
@@ -620,7 +620,7 @@ IFRS 9
 A376
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 13:
 (i)
 if the entity has not retained control, it shall derecognise the
@@ -677,7 +677,7 @@ IFRS 9
 © IFRS Foundation
 A377
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 14:
 servicing liability for the servicing obligation shall be recognised at its fair
 value. If the fee to be received is expected to be more than adequate
@@ -732,7 +732,7 @@ IFRS 9
 A378
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 15:
 Transfers that do not qualify for derecognition
 If a transfer does not result in derecognition because the entity has
@@ -787,7 +787,7 @@ IFRS 9
 © IFRS Foundation
 A379
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 16:
 (b)
 equal to the fair value of the rights and obligations retained by the
@@ -846,7 +846,7 @@ IFRS 9
 A380
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 17:
 (b)
 If the transferee sells collateral pledged to it, it shall recognise the
@@ -904,7 +904,7 @@ IFRS 9
 © IFRS Foundation
 A381
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 18:
 underlying item when, and only when, the entity repurchases its financial
 liability for such purposes. Instead, the entity may elect to continue to
@@ -959,7 +959,7 @@ IFRS 9
 A382
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 19:
 (a)
 principal is the fair value of the financial asset at initial
@@ -1015,7 +1015,7 @@ IFRS 9
 © IFRS Foundation
 A383
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 20:
 (ii)
 the amount initially recognised (see paragraph 5.1.1) less,
@@ -1072,7 +1072,7 @@ IFRS 9
 A384
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 21:
 provided in the case of a non-financial variable that the variable is not specific
 to a party to the contract. A derivative that is attached to a financial instrument
@@ -1130,7 +1130,7 @@ IFRS 9
 © IFRS Foundation
 A385
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 22:
 If an entity is unable to measure reliably the fair value of an embedded
 derivative on the basis of its terms and conditions, the fair value of the
@@ -1187,7 +1187,7 @@ IFRS 9
 A386
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 23:
 5.2 Subsequent measurement of financial assets
 After initial recognition, an entity shall measure a financial asset in
@@ -1265,7 +1265,7 @@ IFRS 9
 © IFRS Foundation
 A387
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 24:
 (b)
 financial assets that are not purchased or originated credit-impaired
@@ -1320,7 +1320,7 @@ IFRS 9
 A388
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 25:
 (a)
 by amending the contractual terms specified at the initial recognition
@@ -1377,7 +1377,7 @@ IFRS 9
 © IFRS Foundation
 A389
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 26:
 If changes are made to a financial asset or financial liability in addition to
 changes to the basis for determining the contractual cash flows required by
@@ -1439,7 +1439,7 @@ IFRS 9
 A390
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 27:
 If an entity has measured the loss allowance for a financial instrument at an
 amount equal to lifetime expected credit losses in the previous reporting
@@ -1502,7 +1502,7 @@ IFRS 9
 © IFRS Foundation
 A391
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 28:
 Modified financial assets
 If the contractual cash flows on a financial asset have been renegotiated or
@@ -1559,7 +1559,7 @@ IFRS 9
 A392
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 29:
 receivables but may be applied separately to finance and operating
 lease receivables.
@@ -1615,7 +1615,7 @@ IFRS 9
 © IFRS Foundation
 A393
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 30:
 amortised cost of the financial asset and fair value is recognised in profit
 or loss.
@@ -1679,7 +1679,7 @@ IFRS 9
 A394
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 31:
 (a)
 it is part of a hedging relationship (see paragraphs 6.5.8–6.5.14 and,
@@ -1748,7 +1748,7 @@ IFRS 9
 © IFRS Foundation
 A395
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 32:
 recognised in profit or loss or in other comprehensive income, as
 appropriate in accordance with paragraph 5.7.1. The trade date shall be
@@ -1804,7 +1804,7 @@ IFRS 9
 A396
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 33:
 Assets measured at fair value through other
 comprehensive income
@@ -1875,7 +1875,7 @@ IFRS 9
 © IFRS Foundation
 A397
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 34:
 designate as the hedged item a portion that is a currency amount (see
 paragraphs 81A, 89A and AG114–AG132 of IAS 39).
@@ -1937,7 +1937,7 @@ IFRS 9
 A398
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 35:
 An entity may view in combination, and jointly designate as the hedging
 instrument, any combination of the following (including those circumstances
@@ -2003,7 +2003,7 @@ IFRS 9
 © IFRS Foundation
 A399
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 36:
 financial statements of an investment entity, as defined in IFRS 10, where
 transactions between an investment entity and its subsidiaries measured at
@@ -2063,7 +2063,7 @@ IFRS 9
 A400
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 37:
 (b)
 at the inception of the hedging relationship there is formal
@@ -2128,7 +2128,7 @@ IFRS 9
 © IFRS Foundation
 A401
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 38:
 If the hedged item is an equity instrument for which an entity has elected to
 present changes in fair value in other comprehensive income in accordance
@@ -2185,7 +2185,7 @@ IFRS 9
 A402
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 39:
 Discontinuing hedge accounting can either affect a hedging relationship in
 its entirety or only a part of it (in which case hedge accounting continues
@@ -2243,7 +2243,7 @@ IFRS 9
 © IFRS Foundation
 A403
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 40:
 case of a financial asset (or a component thereof) that is a hedged item and
 that is measured at fair value through other comprehensive income in
@@ -2301,7 +2301,7 @@ IFRS 9
 A404
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 41:
 in the periods that interest income or interest expense is
 recognised or when a forecast sale occurs).
@@ -2358,7 +2358,7 @@ IFRS 9
 © IFRS Foundation
 A405
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 42:
 (i)
 a transaction related hedged item; or
@@ -2424,7 +2424,7 @@ IFRS 9
 A406
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 43:
 be immediately reclassified into profit or loss as a reclassification
 adjustment (see IAS 1).
@@ -2479,7 +2479,7 @@ IFRS 9
 © IFRS Foundation
 A407
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 44:
 (b)
 the risk management objective is to hedge a layer component;
@@ -2543,7 +2543,7 @@ IFRS 9
 A408
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 45:
 (d)
 not applying hedge accounting to the nil net position would give rise
@@ -2597,7 +2597,7 @@ IFRS 9
 © IFRS Foundation
 A409
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 46:
 (i)
 the credit derivative or the related financial instrument that
@@ -2662,7 +2662,7 @@ IFRS 9
 A410
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 47:
 Paragraphs 6.8.4–6.8.12 provide exceptions only to the requirements specified
 in these paragraphs. An entity shall continue to apply all other hedge
@@ -2715,7 +2715,7 @@ IFRS 9
 © IFRS Foundation
 A411
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 48:
 End of application
 An entity shall prospectively cease applying paragraph 6.8.4 to a hedged item
@@ -2779,7 +2779,7 @@ IFRS 9
 A412
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 49:
 An entity shall prospectively cease applying paragraphs 6.8.7 and 6.8.8 at the
 earlier of:
@@ -2844,7 +2844,7 @@ IFRS 9
 © IFRS Foundation
 A413
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 50:
 An entity shall amend a hedging relationship as required in paragraph 6.9.1
 by the end of the reporting period during which a change required by interest
@@ -2900,7 +2900,7 @@ IFRS 9
 A414
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 51:
 entity would designate the alternative benchmark rate as the hedged risk for
 that relevant subgroup of hedged items. The entity would continue to
@@ -2948,7 +2948,7 @@ IFRS 9
 © IFRS Foundation
 A415
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 52:
 Chapter 7 Effective date and transition
 7.1 Effective date
@@ -3007,7 +3007,7 @@ IFRS 9
 A416
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 53:
 Interest Rate Benchmark Reform, which amended IFRS 9, IAS 39 and IFRS 7, issued
 in September 2019, added Section 6.8 and amended paragraph 7.2.26. An
@@ -3063,7 +3063,7 @@ IFRS 9
 © IFRS Foundation
 A417
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 54:
 If, at the date of initial application, it is impracticable (as defined in IAS 8) for
 an entity to assess whether the fair value of a prepayment feature was
@@ -3123,7 +3123,7 @@ IFRS 9
 A418
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 55:
 (b)
 shall revoke its previous designation of a financial liability as
@@ -3182,7 +3182,7 @@ IFRS 9
 © IFRS Foundation
 A419
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 56:
 At the date of initial application, an entity is permitted to make the
 designation in paragraph 2.5 for contracts that already exist on the date but
@@ -3238,7 +3238,7 @@ IFRS 9
 A420
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 57:
 (b)
 the rebuttable presumption in paragraph 5.5.11 for contractual
@@ -3298,7 +3298,7 @@ IFRS 9
 © IFRS Foundation
 A421
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 58:
 application applies only to those hedging relationships that existed at
 the beginning of the earliest comparative period or were designated
@@ -3352,7 +3352,7 @@ IFRS 9
 A422
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 59:
 An entity that applied IFRS 9 (2009), IFRS 9 (2010) or IFRS 9 (2013) and
 subsequently applies this Standard:
@@ -3404,7 +3404,7 @@ IFRS 9
 © IFRS Foundation
 A423
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 60:
 With regard to designating a financial asset or financial liability as measured
 at fair value through profit or loss, an entity:
@@ -3460,7 +3460,7 @@ IFRS 9
 A424
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 61:
 (c)
 the carrying amount of any financial assets and financial liabilities in
@@ -3514,7 +3514,7 @@ IFRS 9
 © IFRS Foundation
 A425
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 62:
 An entity is not required to restate prior periods to reflect the application of
 these amendments. The entity may restate prior periods only if it is possible to
@@ -3576,7 +3576,7 @@ IFRS 9
 A426
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 63:
 (b)
 at the beginning of the reporting period in which an entity first applies
@@ -3621,7 +3621,7 @@ IFRS 9
 © IFRS Foundation
 A427
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 64:
 Appendix A 
 Defined terms
@@ -3693,7 +3693,7 @@ IFRS 9
 A428
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 65:
 credit loss
 The difference between all contractual cash flows that are due
@@ -3746,7 +3746,7 @@ IFRS 9
 © IFRS Foundation
 A429
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 66:
 (a)
 its value changes in response to the change in a
@@ -3806,7 +3806,7 @@ IFRS 9
 A430
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 67:
 financial liability at
 fair value through
@@ -3876,7 +3876,7 @@ IFRS 9
 © IFRS Foundation
 A431
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 68:
 expected life of the renegotiated or modified financial asset
 that are discounted at the financial asset’s original effective
@@ -3945,7 +3945,7 @@ IFRS 9
 A432
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 69:
 (g)
 transaction price.
@@ -3953,7 +3953,7 @@ IFRS 9
 © IFRS Foundation
 A433
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 70:
 Appendix B 
 Application guidance
@@ -4032,7 +4032,7 @@ IFRS 9
 A434
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 71:
 continuing involvement approach applies), the issuer measures it at
 the higher of:
@@ -4093,7 +4093,7 @@ IFRS 9
 © IFRS Foundation
 A435
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 72:
 (b)
 Assets to be acquired and liabilities to be incurred as a result of a firm
@@ -4151,7 +4151,7 @@ IFRS 9
 A436
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 73:
 recognition of a receivable from the buyer for payment on the trade date.
 Generally, interest does not start to accrue on the asset and corresponding
@@ -4175,7 +4175,7 @@ IFRS 9
 © IFRS Foundation
 A437
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 74:
 Derecognition of financial assets (Section 3.2)
 The following flow chart illustrates the evaluation of whether and to what
@@ -4185,7 +4185,7 @@ IFRS 9
 A438
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 75:
 Arrangements under which an entity retains the contractual rights to
 receive the cash flows of a financial asset, but assumes a contractual
@@ -4245,7 +4245,7 @@ IFRS 9
 © IFRS Foundation
 A439
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 76:
 Evaluation of the transfer of control
 An entity has not retained control of a transferred asset if the transferee has
@@ -4302,7 +4302,7 @@ IFRS 9
 A440
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 77:
 Transfers that qualify for derecognition
 An entity may retain the right to a part of the interest payments on
@@ -4363,7 +4363,7 @@ IFRS 9
 © IFRS Foundation
 A441
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 78:
 Assets measured at amortised cost
 (b)
@@ -4417,7 +4417,7 @@ IFRS 9
 A442
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 79:
 (e)
 If a collar, in the form of a purchased call and written put, prevents a
@@ -4473,7 +4473,7 @@ IFRS 9
 © IFRS Foundation
 A443
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 80:
 the asset in its statement of financial position, for example, as a loaned
 asset or repurchase receivable.
@@ -4527,7 +4527,7 @@ IFRS 9
 A444
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 81:
 (h)
 Readily obtainable assets subject to a call option that is neither deeply in the
@@ -4585,7 +4585,7 @@ IFRS 9
 © IFRS Foundation
 A445
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 82:
 aggregate amount of loans that could be repurchased could not exceed
 CU10,000, CU90,000 of the loans would qualify for derecognition.
@@ -4642,7 +4642,7 @@ IFRS 9
 A446
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 83:
 recognise the transferred asset to the extent of its continuing
 involvement. Conversely, if the amortisation of the notional amount of
@@ -4689,7 +4689,7 @@ IFRS 9
 © IFRS Foundation
 A447
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 84:
 ...continued
 The entity calculates that CU9,090 (90% × CU10,100) of the consideration
@@ -4742,7 +4742,7 @@ IFRS 9
 A448
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 85:
 ...continued
 The entity uses all of the above information to account for the transaction as
@@ -4825,7 +4825,7 @@ IFRS 9
 © IFRS Foundation
 A449
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 86:
 Payment to a third party, including a trust (sometimes called ‘in-substance
 defeasance’), does not, by itself, relieve the debtor of its primary obligation to
@@ -4878,7 +4878,7 @@ IFRS 9
 A450
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 87:
 Classification (Chapter 4)
 Classification of financial assets (Section 4.1)
@@ -4938,7 +4938,7 @@ IFRS 9
 © IFRS Foundation
 A451
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 88:
 assesses the business model for newly originated or newly purchased financial
 assets, it must consider information about how cash flows were realised in the
@@ -4994,7 +4994,7 @@ IFRS 9
 A452
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 89:
 The business model may be to hold assets to collect contractual cash flows
 even if the entity sells financial assets when there is an increase in the assets’
@@ -5045,7 +5045,7 @@ IFRS 9
 © IFRS Foundation
 A453
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 90:
 Example
 Analysis
@@ -5099,7 +5099,7 @@ IFRS 9
 A454
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 91:
 ...continued
 Example
@@ -5146,7 +5146,7 @@ IFRS 9
 © IFRS Foundation
 A455
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 92:
 ...continued
 Example
@@ -5189,7 +5189,7 @@ IFRS 9
 A456
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 93:
 ...continued
 Example
@@ -5268,7 +5268,7 @@ IFRS 9
 © IFRS Foundation
 A457
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 94:
 those assets are funding. To achieve such an objective, the entity will both
 collect contractual cash flows and sell financial assets.
@@ -5292,7 +5292,7 @@ IFRS 9
 A458
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 95:
 Example
 Analysis
@@ -5350,7 +5350,7 @@ IFRS 9
 © IFRS Foundation
 A459
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 96:
 ...continued
 Example
@@ -5425,7 +5425,7 @@ IFRS 9
 A460
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 97:
 value through profit or loss is one in which an entity manages the financial
 assets with the objective of realising cash flows through the sale of the assets.
@@ -5481,7 +5481,7 @@ IFRS 9
 © IFRS Foundation
 A461
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 98:
 contractual cash flows that is unrelated to a basic lending arrangement, such
 as exposure to changes in equity prices or commodity prices, do not give rise
@@ -5538,7 +5538,7 @@ IFRS 9
 A462
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 99:
 reset every month to a one-year interest rate, the entity would compare that
 financial asset to a financial instrument with identical contractual terms and
@@ -5600,7 +5600,7 @@ IFRS 9
 © IFRS Foundation
 A463
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 100:
 Contractual terms that change the timing or amount of contractual cash
 flows
@@ -5654,7 +5654,7 @@ IFRS 9
 A464
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 101:
 Despite paragraph B4.1.10, a financial asset that would otherwise meet the
 condition in paragraphs 4.1.2(b) and 4.1.2A(b) but does not do so only as a
@@ -5690,7 +5690,7 @@ IFRS 9
 © IFRS Foundation
 A465
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 102:
 Instrument
 Analysis
@@ -5741,7 +5741,7 @@ IFRS 9
 A466
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 103:
 ...continued
 Instrument
@@ -5796,7 +5796,7 @@ IFRS 9
 © IFRS Foundation
 A467
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 104:
 ...continued
 Instrument
@@ -5836,7 +5836,7 @@ IFRS 9
 A468
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 105:
 ...continued
 Instrument
@@ -5890,7 +5890,7 @@ IFRS 9
 © IFRS Foundation
 A469
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 106:
 ...continued
 Instrument
@@ -5956,7 +5956,7 @@ IFRS 9
 A470
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 107:
 Instrument
 Analysis
@@ -6021,7 +6021,7 @@ IFRS 9
 © IFRS Foundation
 A471
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 108:
 ...continued
 Instrument
@@ -6076,7 +6076,7 @@ IFRS 9
 A472
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 109:
 claim is limited to specified assets of the debtor or the cash flows from
 specified assets (for example, a ‘non-recourse’ financial asset).
@@ -6132,7 +6132,7 @@ IFRS 9
 © IFRS Foundation
 A473
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 110:
 holders of a tranche have the right to payments of principal and interest on
 the principal amount outstanding only if the issuer generates sufficient cash
@@ -6198,7 +6198,7 @@ IFRS 9
 A474
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 111:
 If any instrument in the pool does not meet the conditions in either
 paragraph B4.1.23 or paragraph B4.1.24, the condition in paragraph B4.1.21(b)
@@ -6259,7 +6259,7 @@ IFRS 9
 © IFRS Foundation
 A475
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 112:
 Designation eliminates or significantly reduces an accounting
 mismatch
@@ -6315,7 +6315,7 @@ IFRS 9
 A476
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 113:
 In cases such as those described in the preceding paragraph, to designate, at
 initial recognition, the financial assets and financial liabilities not otherwise
@@ -6372,7 +6372,7 @@ IFRS 9
 © IFRS Foundation
 A477
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 114:
 As noted above, this condition relies on the way the entity manages and
 evaluates performance of the group of financial instruments under
@@ -6433,7 +6433,7 @@ IFRS 9
 A478
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 115:
 The economic characteristics and risks of an embedded derivative are not
 closely related to the host contract (paragraph 4.3.3(a)) in the following
@@ -6491,7 +6491,7 @@ IFRS 9
 © IFRS Foundation
 A479
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 116:
 prepaid in a similar contract for the remaining term of the host
 contract.
@@ -6546,7 +6546,7 @@ IFRS 9
 A480
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 117:
 (b)
 An embedded floor or cap on the interest rate on a debt contract or
@@ -6601,7 +6601,7 @@ IFRS 9
 © IFRS Foundation
 A481
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 118:
 (f)
 An embedded derivative in a host lease contract is closely related to
@@ -6658,7 +6658,7 @@ IFRS 9
 A482
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 119:
 changed and whether the change is significant relative to the previously
 expected cash flows on the contract.
@@ -6714,7 +6714,7 @@ IFRS 9
 © IFRS Foundation
 A483
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 120:
 The following are not changes in business model:
 (a)
@@ -6770,7 +6770,7 @@ IFRS 9
 A484
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 121:
 market participants would take into account when pricing the asset or
 liability.
@@ -6826,7 +6826,7 @@ IFRS 9
 © IFRS Foundation
 A485
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 122:
 (e)
 a significant change in the performance of comparable entities, or in
@@ -6890,7 +6890,7 @@ IFRS 9
 A486
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 123:
 (c)
 origination fees paid on issuing financial liabilities measured at
@@ -6947,7 +6947,7 @@ IFRS 9
 © IFRS Foundation
 A487
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 124:
 If an entity revises its estimates of payments or receipts (excluding
 modifications in accordance with paragraph 5.4.3 and changes in estimates of
@@ -7009,7 +7009,7 @@ IFRS 9
 A488
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 125:
 if evidence of such significant increases in credit risk at the individual
 instrument level is not yet available.
@@ -7068,7 +7068,7 @@ IFRS 9
 © IFRS Foundation
 A489
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 126:
 (f)
 industry;
@@ -7127,7 +7127,7 @@ IFRS 9
 A490
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 127:
 life of 10 years at initial recognition is identical to the risk of a default
 occurring on that financial instrument when its expected life in a subsequent
@@ -7183,7 +7183,7 @@ IFRS 9
 © IFRS Foundation
 A491
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 128:
 (a)
 the financial instrument only has significant payment obligations
@@ -7239,7 +7239,7 @@ IFRS 9
 A492
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 129:
 (c)
 significant changes in external market indicators of credit risk for a
@@ -7300,7 +7300,7 @@ IFRS 9
 © IFRS Foundation
 A493
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 130:
 the value of collateral declines because house prices decline, borrowers
 in some jurisdictions have a greater incentive to default on their
@@ -7358,7 +7358,7 @@ IFRS 9
 A494
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 131:
 Alternatively, the entity may base the assessment on both types of
 information, ie qualitative factors that are not captured through the internal
@@ -7414,7 +7414,7 @@ IFRS 9
 © IFRS Foundation
 A495
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 132:
 to have low credit risk. They should, however, be considered to have low
 credit risk from a market participant perspective taking into account all of the
@@ -7469,7 +7469,7 @@ IFRS 9
 A496
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 133:
 would not typically be erased by simply making one payment on time
 following a modification of the contractual terms.
@@ -7526,7 +7526,7 @@ IFRS 9
 © IFRS Foundation
 A497
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 134:
 discounted at the financial asset’s original effective interest rate. Any
 adjustment is recognised in profit or loss as an impairment gain or loss.
@@ -7581,7 +7581,7 @@ IFRS 9
 A498
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 135:
 However, in accordance with paragraph 5.5.20, some financial instruments
 include both a loan and an undrawn commitment component and the entity’s
@@ -7641,7 +7641,7 @@ IFRS 9
 © IFRS Foundation
 A499
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 136:
 risk characteristics may be a reasonable estimate of the probability-weighted
 amount. In other situations, the identification of scenarios that specify the
@@ -7697,7 +7697,7 @@ IFRS 9
 A500
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 137:
 by adjusting the discount rate instead of adjusting the cash shortfalls being
 discounted.
@@ -7753,7 +7753,7 @@ IFRS 9
 © IFRS Foundation
 A501
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 138:
 financial instrument or in the group of financial instruments and in the
 magnitude of those changes). An entity shall regularly review the
@@ -7809,7 +7809,7 @@ IFRS 9
 A502
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 139:
 (b)
 the measurement of expected credit losses will not change because
@@ -7865,7 +7865,7 @@ IFRS 9
 © IFRS Foundation
 A503
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 140:
 or loss upon derecognition if the financial asset had been measured at
 amortised cost.
@@ -7923,7 +7923,7 @@ IFRS 9
 A504
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 141:
 occur. An entity must apply consistently its methodology for determining
 whether presenting in other comprehensive income the effects of changes in
@@ -7978,7 +7978,7 @@ IFRS 9
 © IFRS Foundation
 A505
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 142:
 For the purposes of applying the requirements in paragraphs 5.7.7 and 5.7.8,
 an accounting mismatch is not caused solely by the measurement method
@@ -8036,7 +8036,7 @@ IFRS 9
 A506
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 143:
 in the fair value of the assets. The effect of the performance of the
 assets on the fair value of the liability is asset-specific performance
@@ -8095,7 +8095,7 @@ IFRS 9
 © IFRS Foundation
 A507
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 144:
 derivative is excluded in determining the amount to be presented in other
 comprehensive income in accordance with paragraph 5.7.7(a).
@@ -8142,7 +8142,7 @@ IFRS 9
 A508
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 145:
 Hedged items (Section 6.3)
 Qualifying items
@@ -8199,7 +8199,7 @@ IFRS 9
 © IFRS Foundation
 A509
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 146:
 When designating the hedged item on the basis of the aggregated exposure,
 an entity considers the combined effect of the items that constitute the
@@ -8257,7 +8257,7 @@ IFRS 9
 A510
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 147:
 Designation of hedged items
 A component is a hedged item that is less than the entire item. Consequently,
@@ -8313,7 +8313,7 @@ IFRS 9
 © IFRS Foundation
 A511
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 148:
 (ii)
 coffee supply contracts for Arabica coffee from Colombia
@@ -8369,7 +8369,7 @@ IFRS 9
 A512
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 149:
 sufficiently liquid. For time horizons up to six months Entity C uses jet
 fuel contracts. Entity C’s analysis of the market structure for oil and
@@ -8433,7 +8433,7 @@ IFRS 9
 © IFRS Foundation
 A513
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 150:
 of that benchmark rate, irrespective of the spread of debt instruments
 to that benchmark rate. The price of fixed-rate debt instruments varies
@@ -8490,7 +8490,7 @@ IFRS 9
 A514
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 151:
 the entity cannot overcome the rebuttable presumption that inflation risk
 that is not contractually specified is not separately identifiable and reliably
@@ -8549,7 +8549,7 @@ IFRS 9
 © IFRS Foundation
 A515
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 152:
 the hedged risk). The fair value hedge adjustment must be recognised in profit
 or loss no later than when the item is derecognised. Consequently, it is
@@ -8606,7 +8606,7 @@ IFRS 9
 A516
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 153:
 difference between the current fair value (ie CU90) and the amount repayable
 on maturity (ie CU100).
@@ -8659,7 +8659,7 @@ IFRS 9
 © IFRS Foundation
 A517
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 154:
 For the avoidance of doubt, the effects of replacing the original counterparty
 with a clearing counterparty and making the associated changes as described
@@ -8715,7 +8715,7 @@ IFRS 9
 A518
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 155:
 there is little change in the underlyings, the fact that even small credit
 risk-related changes in the value of the hedging instrument or the hedged
@@ -8771,7 +8771,7 @@ IFRS 9
 © IFRS Foundation
 A519
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 156:
 (b)
 whether there is a commercial reason for the particular weightings of
@@ -8823,7 +8823,7 @@ IFRS 9
 A520
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 157:
 The fact that a derivative is in or out of the money when it is designated as a
 hedging instrument does not in itself mean that a qualitative assessment is
@@ -8881,7 +8881,7 @@ IFRS 9
 © IFRS Foundation
 A521
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 158:
 reclassified to profit or loss during a period in which it would achieve offset.
 For the same reason, a forecast purchase of an equity instrument that, once
@@ -8935,7 +8935,7 @@ IFRS 9
 A522
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 159:
 The change in the value of the hedged item determined using a
 hypothetical derivative may also be used for the purpose of assessing whether
@@ -8993,7 +8993,7 @@ IFRS 9
 © IFRS Foundation
 A523
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 160:
 (a)
 fluctuations around the hedge ratio, which remains valid (ie continues
@@ -9050,7 +9050,7 @@ IFRS 9
 A524
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 161:
 (b)
 an entity would retain quantities of the hedging instrument and the
@@ -9110,7 +9110,7 @@ IFRS 9
 © IFRS Foundation
 A525
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 162:
 inception of the hedging relationship) and added a volume of 10 tonnes on
 rebalancing when the forward price was CU90, the hedged item after
@@ -9166,7 +9166,7 @@ IFRS 9
 A526
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 163:
 When rebalancing a hedging relationship, an entity shall update its analysis of
 the sources of hedge ineffectiveness that are expected to affect the hedging
@@ -9224,7 +9224,7 @@ IFRS 9
 © IFRS Foundation
 A527
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 164:
 reducing by CU20 the extent to which it previously hedged its variable-
 rate exposure, resulting in CU60 of fixed-rate exposure. In this
@@ -9283,7 +9283,7 @@ IFRS 9
 A528
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 165:
 (c)
 an entity has a risk management strategy whereby it manages the
@@ -9339,7 +9339,7 @@ IFRS 9
 © IFRS Foundation
 A529
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 166:
 (a)
 on rebalancing of the hedging relationship, the hedge ratio might be
@@ -9396,7 +9396,7 @@ IFRS 9
 A530
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 167:
 of whether the hedging relationship is a cash flow hedge or a fair value
 hedge):
@@ -9449,7 +9449,7 @@ IFRS 9
 © IFRS Foundation
 A531
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 168:
 (b)
 if the cap is a forward start option that hedges increases in interest
@@ -9519,7 +9519,7 @@ IFRS 9
 A532
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 169:
 Any remainder of the change in fair value of the actual time value shall be
 recognised in profit or loss.
@@ -9574,7 +9574,7 @@ IFRS 9
 © IFRS Foundation
 A533
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 170:
 The characteristics of the hedged item, including how and when the hedged
 item affects profit or loss, also affect the period over which the forward
@@ -9634,7 +9634,7 @@ IFRS 9
 A534
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 171:
 (b)
 if, at inception of the hedging relationship, the absolute amount of the
@@ -9689,7 +9689,7 @@ IFRS 9
 © IFRS Foundation
 A535
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 172:
 eligible for hedge accounting only if the conditions in paragraph 6.6.6 are
 met.
@@ -9745,7 +9745,7 @@ IFRS 9
 A536
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 173:
 which the forecast transactions are expected to affect profit or loss and also
 specifies their nature and volume.
@@ -9802,7 +9802,7 @@ IFRS 9
 © IFRS Foundation
 A537
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 174:
 However, the changes in the value of the items in the net position that have a
 similar effect as the hedging instrument are recognised only once the
@@ -9856,7 +9856,7 @@ IFRS 9
 A538
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 175:
 If the group of items does not have any offsetting risk positions (for example,
 a group of foreign currency expenses that affect different line items in the
@@ -9908,7 +9908,7 @@ IFRS 9
 © IFRS Foundation
 A539
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 176:
 Effective date and transition (Chapter 7)
 Transition (Section 7.2)
@@ -9960,7 +9960,7 @@ IFRS 9
 A540
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 177:
 unrelated to a notional amount. For example, a contract may require a fixed
 payment of CU1,000 if six-month LIBOR increases by 100 basis points. Such a
@@ -10016,7 +10016,7 @@ IFRS 9
 © IFRS Foundation
 A541
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 178:
 Financial liabilities held for trading include: 
 (a)
@@ -10041,7 +10041,7 @@ IFRS 9
 A542
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 179:
 Appendix C
 Amendments to other Standards
@@ -10056,7 +10056,7 @@ IFRS 9
 © IFRS Foundation
 A543
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 180:
 Approval by the Board of IFRS 9 issued in November 2009
 International Financial Reporting Standard 9 Financial Instruments was approved for issue
@@ -10083,7 +10083,7 @@ IFRS 9
 A544
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 181:
 Approval by the Board of the requirements added to IFRS 9 in
 October 2010
@@ -10111,7 +10111,7 @@ IFRS 9
 © IFRS Foundation
 A545
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 182:
 Approval by the Board of Mandatory Effective Date of IFRS 9 and
 Transition Disclosures (Amendments to IFRS 9 (2009), IFRS 9
@@ -10142,7 +10142,7 @@ IFRS 9
 A546
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 183:
 Approval by the Board of IFRS 9 Financial Instruments (Hedge
 Accounting and amendments to IFRS 9, IFRS 7 and IAS 39)
@@ -10173,7 +10173,7 @@ IFRS 9
 © IFRS Foundation
 A547
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 184:
 Approval by the Board of IFRS 9 Financial Instruments issued in
 July 2014
@@ -10203,7 +10203,7 @@ IFRS 9
 A548
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 185:
 Approval by the Board of Prepayment Features with Negative
 Compensation (Amendments to IFRS 9) issued in October 2017
@@ -10231,7 +10231,7 @@ IFRS 9
 © IFRS Foundation
 A549
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 186:
 Approval by the Board of Interest Rate Benchmark Reform issued
 in September 2019
@@ -10257,7 +10257,7 @@ IFRS 9
 A550
 © IFRS Foundation
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 187:
 Approval by the Board of Interest Rate Benchmark Reform—
 Phase 2 issued in August 2020
@@ -10284,6 +10284,6 @@ IFRS 9
 © IFRS Foundation
 A551
 
-PDF File: ifrs-9-financial-instruments.pdf
+PDF File: IFRS 9 Financial Instruments.pdf
 Page 188:
 

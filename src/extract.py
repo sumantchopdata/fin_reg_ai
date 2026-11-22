@@ -35,15 +35,16 @@ def pdf_files_list(directory):
             pdf_files.append(os.path.join(directory, file))
     return pdf_files
 
-for pdf_file in tqdm(pdf_files_list(RAW_PDF_DIR),
-                     desc="Extracting text from PDFs"):
-    text = extract_text_from_pdf(pdf_file)
-    print(pdf_file.split('\\')[-1], len(text))
+if __name__ == "__main__":
+    for pdf_file in tqdm(pdf_files_list(RAW_PDF_DIR),
+                        desc="Extracting text from PDFs"):
+        text = extract_text_from_pdf(pdf_file)
+        print(pdf_file.split('\\')[-1], len(text))
 
-    # save each dictionary in the text object in the data\\processed folder
-    output_file = PROCESSED_PDF_DIR / (Path(pdf_file).stem + ".txt")
-    with open(output_file, "w", encoding="utf-8") as f:
-        for page_data in text:
-            f.write(f"PDF File: {page_data['pdf_file']}\n")
-            f.write(f"Page {page_data['page_number']}:\n")
-            f.write(page_data['text'] + "\n")
+        # save each dictionary in the text object in the data\\processed folder
+        output_file = PROCESSED_PDF_DIR / (Path(pdf_file).stem + ".txt")
+        with open(output_file, "w", encoding="utf-8") as f:
+            for page_data in text:
+                f.write(f"PDF File: {page_data['pdf_file']}\n")
+                f.write(f"Page {page_data['page_number']}:\n")
+                f.write(page_data['text'] + "\n")
