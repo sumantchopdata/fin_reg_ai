@@ -1,0 +1,19 @@
+query_number,query,index_type,target_chunk_retrieved,target_chunk_rank,target_chunk_distance
+1,How does sensitivity analysis differ from stress testing?,baseline,False,,
+1,How does sensitivity analysis differ from stress testing?,filename_augmented,False,,
+1,How does sensitivity analysis differ from stress testing?,title_augmented,True,6.0,0.578346312046051
+2,How does sensitivity analysis differ from stress testing in model validation?,baseline,True,1.0,0.387011855840683
+2,How does sensitivity analysis differ from stress testing in model validation?,filename_augmented,True,1.0,0.37585878372192383
+2,How does sensitivity analysis differ from stress testing in model validation?,title_augmented,True,1.0,0.36459195613861084
+3,How does sensitivity analysis differ from stress testing in banking?,baseline,False,,
+3,How does sensitivity analysis differ from stress testing in banking?,filename_augmented,False,,
+3,How does sensitivity analysis differ from stress testing in banking?,title_augmented,False,,
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,baseline,True,1.0,0.41841939091682434
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,filename_augmented,True,1.0,0.4062788188457489
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,title_augmented,True,1.0,0.3963559567928314
+5,"According to SR 11-7, how does sensitivity analysis differ from stress testing?",baseline,False,,
+5,"According to SR 11-7, how does sensitivity analysis differ from stress testing?",filename_augmented,False,,
+5,"According to SR 11-7, how does sensitivity analysis differ from stress testing?",title_augmented,False,,
+6,What distinction does SR 11-7 make between sensitivity analysis and stress testing?,baseline,False,,
+6,What distinction does SR 11-7 make between sensitivity analysis and stress testing?,filename_augmented,False,,
+6,What distinction does SR 11-7 make between sensitivity analysis and stress testing?,title_augmented,False,,

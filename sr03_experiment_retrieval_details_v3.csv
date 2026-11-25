@@ -1,0 +1,41 @@
+query_number,query,rank,chunk_id,document_name,page_numbers,faiss_distance
+1,How does sensitivity analysis differ from stress testing?,1,466,BaselFramework.pdf,"[638, 639, 640]",0.48990821838378906
+1,How does sensitivity analysis differ from stress testing?,2,1366,EBA Report on IRB modelling practices.pdf,"[53, 54]",0.4942227005958557
+1,How does sensitivity analysis differ from stress testing?,3,1276,BaselFramework.pdf,"[1917, 1918, 1919]",0.5211570858955383
+1,How does sensitivity analysis differ from stress testing?,4,465,BaselFramework.pdf,"[637, 638]",0.5274198055267334
+1,How does sensitivity analysis differ from stress testing?,5,310,BaselFramework.pdf,"[436, 437, 438]",0.5359928607940674
+1,How does sensitivity analysis differ from stress testing?,6,931,BaselFramework.pdf,"[1321, 1322]",0.5528581142425537
+1,How does sensitivity analysis differ from stress testing?,7,1367,EBA Report on IRB modelling practices.pdf,"[54, 55]",0.5554472804069519
+1,How does sensitivity analysis differ from stress testing?,8,469,BaselFramework.pdf,"[642, 643]",0.5670758485794067
+1,How does sensitivity analysis differ from stress testing?,9,1037,BaselFramework.pdf,"[1460, 1461]",0.5684872269630432
+1,How does sensitivity analysis differ from stress testing?,10,453,BaselFramework.pdf,"[624, 625]",0.5705606937408447
+2,How does sensitivity analysis differ from stress testing in model validation?,1,1687,SR11-7.pdf,"[11, 12]",0.387011855840683
+2,How does sensitivity analysis differ from stress testing in model validation?,2,1684,SR11-7.pdf,"[8, 9]",0.39236390590667725
+2,How does sensitivity analysis differ from stress testing in model validation?,3,1366,EBA Report on IRB modelling practices.pdf,"[53, 54]",0.4397791922092438
+2,How does sensitivity analysis differ from stress testing in model validation?,4,1692,SR11-7.pdf,"[15, 16]",0.4480457901954651
+2,How does sensitivity analysis differ from stress testing in model validation?,5,1688,SR11-7.pdf,[12],0.44913747906684875
+2,How does sensitivity analysis differ from stress testing in model validation?,6,1668,PRA SS1-23.pdf,"[23, 24]",0.4603312015533447
+2,How does sensitivity analysis differ from stress testing in model validation?,7,1367,EBA Report on IRB modelling practices.pdf,"[54, 55]",0.47112923860549927
+2,How does sensitivity analysis differ from stress testing in model validation?,8,1681,SR11-7.pdf,"[6, 7]",0.4768335819244385
+2,How does sensitivity analysis differ from stress testing in model validation?,9,466,BaselFramework.pdf,"[638, 639, 640]",0.4851301312446594
+2,How does sensitivity analysis differ from stress testing in model validation?,10,469,BaselFramework.pdf,"[642, 643]",0.4852311611175537
+3,How does sensitivity analysis differ from stress testing in banking?,1,466,BaselFramework.pdf,"[638, 639, 640]",0.37492913007736206
+3,How does sensitivity analysis differ from stress testing in banking?,2,1276,BaselFramework.pdf,"[1917, 1918, 1919]",0.39489173889160156
+3,How does sensitivity analysis differ from stress testing in banking?,3,310,BaselFramework.pdf,"[436, 437, 438]",0.40813007950782776
+3,How does sensitivity analysis differ from stress testing in banking?,4,931,BaselFramework.pdf,"[1321, 1322]",0.4147406816482544
+3,How does sensitivity analysis differ from stress testing in banking?,5,465,BaselFramework.pdf,"[637, 638]",0.4198031723499298
+3,How does sensitivity analysis differ from stress testing in banking?,6,1037,BaselFramework.pdf,"[1460, 1461]",0.43154746294021606
+3,How does sensitivity analysis differ from stress testing in banking?,7,609,BaselFramework.pdf,"[862, 863]",0.44322627782821655
+3,How does sensitivity analysis differ from stress testing in banking?,8,946,BaselFramework.pdf,"[1339, 1340]",0.45027193427085876
+3,How does sensitivity analysis differ from stress testing in banking?,9,1366,EBA Report on IRB modelling practices.pdf,"[53, 54]",0.452587366104126
+3,How does sensitivity analysis differ from stress testing in banking?,10,928,BaselFramework.pdf,"[1317, 1318]",0.45656678080558777
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,1,1687,SR11-7.pdf,"[11, 12]",0.41841939091682434
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,2,1366,EBA Report on IRB modelling practices.pdf,"[53, 54]",0.4419765770435333
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,3,1668,PRA SS1-23.pdf,"[23, 24]",0.4511851370334625
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,4,1367,EBA Report on IRB modelling practices.pdf,"[54, 55]",0.45309194922447205
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,5,1684,SR11-7.pdf,"[8, 9]",0.45910754799842834
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,6,1691,SR11-7.pdf,"[14, 15]",0.46372225880622864
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,7,1688,SR11-7.pdf,[12],0.4681704342365265
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,8,1692,SR11-7.pdf,"[15, 16]",0.46881303191185
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,9,1690,SR11-7.pdf,"[13, 14]",0.4742482900619507
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,10,1681,SR11-7.pdf,"[6, 7]",0.4863835573196411

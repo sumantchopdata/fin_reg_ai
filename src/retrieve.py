@@ -5,8 +5,11 @@ import faiss
 import streamlit as st
 
 @st.cache_resource
-def load_faiss_index():
-    index = faiss.read_index("data/vector_db/regulations.index")
+def load_faiss_index(config=None):
+    if config==None:
+        index = faiss.read_index("data/vector_db/regulations.index")
+    elif config in ['filename', 'title']:
+        index = faiss.read_index(f"data/vector_db/regulations_{config}.index")
     return index
 
 def retrieve_vectors(query_embedding, index, k=3):

@@ -1,0 +1,1388 @@
+{
+    "sensitivity analysis": [
+        {
+            "chunk_id": 365,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                501,
+                502
+            ],
+            "relevant_statement": " The appropriateness of the mitigation of interest rate and foreign currency through the life of the transaction must be demonstrated by making available to potential investors, in a timely and regular manner, quantitative information including the fraction of notional amounts that are hedged, as well as sensitivity analysis that illustrates the effectiveness of the hedge under extreme but plausible scenarios"
+        },
+        {
+            "chunk_id": 366,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                502,
+                503
+            ],
+            "relevant_statement": "manner, quantitative information including the fraction of notional amounts that are hedged, as well as sensitivity analysis that illustrates the effectiveness of the hedge under extreme but plausible scenarios"
+        },
+        {
+            "chunk_id": 380,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                520,
+                521
+            ],
+            "relevant_statement": " The appropriateness of the mitigation of interest rate and foreign currency risks through the life of the transaction must be demonstrated by making available, in a timely and regular manner, quantitative information including the fraction of notional amounts that are hedged, as well as sensitivity analysis that illustrates the effectiveness of the hedge under extreme but plausible scenarios"
+        },
+        {
+            "chunk_id": 381,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                521,
+                522
+            ],
+            "relevant_statement": " The appropriateness of the mitigation of interest rate and foreign currency risks through the life of the transaction must be demonstrated by making available, in a timely and regular manner, quantitative information including the fraction of notional amounts that are hedged, as well as sensitivity analysis that illustrates the effectiveness of the hedge under extreme but plausible scenarios"
+        },
+        {
+            "chunk_id": 967,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1364,
+                1365,
+                1366
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1365/1982 (4) the adequacy of internal validation of IRRBB measures, including sensitivity analysis and backtesting, in particular where changes in key modelling parameters have occurred; (5) the adequacy of internal monitoring and of the bank\u2019s MIS; (6) the effectiveness of risk limits and controls that set tolerances on economic value and earnings; (7) the effectiveness of the bank\u2019s IRRBB stress testing programme; (8) the adequacy and frequency of the internal review and audit of the IRRBB management process, including independent model validation and oversight of model risk; (9) the adequacy and effectiveness of IRRBB management practices as evidenced by past and projected financial performance; (10) the effectiveness of hedging strategies used by the bank to control IRRBB; and (11) the appropriateness of the level of IRRBB (including embedded losses) in relation to the bank\u2019s capital, earnings and risk management systems"
+        },
+        {
+            "chunk_id": 1238,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1866,
+                1867,
+                1868
+            ],
+            "relevant_statement": " (25) Stress testing: comprises a range of activities from simple sensitivity analysis to more complex scenario analyses and reverse stress testing"
+        },
+        {
+            "chunk_id": 1667,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                22,
+                23
+            ],
+            "relevant_statement": " This should include sensitivity analysis18 to determine the model operating boundaries under which model performance is expected to be acceptable"
+        },
+        {
+            "chunk_id": 1668,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                23,
+                24
+            ],
+            "relevant_statement": " This should include sensitivity analysis18 to determine the model operating boundaries under which model performance is expected to be acceptable"
+        },
+        {
+            "chunk_id": 1671,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                26,
+                27,
+                28
+            ],
+            "relevant_statement": " The independent review should: (i) cover all model components, including model inputs, calculations, and reporting outputs; (ii) assess the conceptual soundness of the underlying theory of the model, and the suitability of the model for its intended use; (iii) critically analyse the quality and extent of model development evidence, including the relevance and completeness of the data used to develop the model with respect to the underlying portfolios, products, assets, or customer base the model is intended to be used for; (iv) evaluate qualitative information and judgements used in model development, and ensure those judgements have been conducted in an appropriate and systematic manner, and are supported by appropriate documentation; and (v) conduct additional testing and analysis as necessary to enable potential model limitations to be identified and addressed on a timely basis, and to review the developmental evidence of the sensitivity analysis conducted by model developers to confirm the impact of key assumptions made in the development process and choice of variables made during the model selection stage on the model outputs"
+        },
+        {
+            "chunk_id": 1683,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                8
+            ],
+            "relevant_statement": " In some cases, sensitivity analysis or other types of stress testing can be used to demonstrate that a model is indeed conservative"
+        },
+        {
+            "chunk_id": 1684,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                8,
+                9
+            ],
+            "relevant_statement": " In some cases, sensitivity analysis or other types of stress testing can be used to demonstrate that a model is indeed conservative"
+        },
+        {
+            "chunk_id": 1687,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                11,
+                12
+            ],
+            "relevant_statement": " Where appropriate to the particular model, banks should employ sensitivity analysis in model development and validation to check the impact of small changes in inputs and parameter values on model outputs to make sure they fall within an expected range"
+        },
+        {
+            "chunk_id": 1688,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                12
+            ],
+            "relevant_statement": " Management should have a clear plan for using the results of sensitivity analysis and other quantitative testing"
+        },
+        {
+            "chunk_id": 1689,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                12,
+                13
+            ],
+            "relevant_statement": " Sensitivity analysis and other checks for robustness and stability should likewise be repeated periodically"
+        },
+        {
+            "chunk_id": 1692,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                15,
+                16
+            ],
+            "relevant_statement": " At times banks may have a limited ability to use key model validation tools like back- testing or sensitivity analysis for various reasons, such as lack of data or of price observability"
+        },
+        {
+            "chunk_id": 1693,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                16,
+                17
+            ],
+            "relevant_statement": " External models may not allow full access to computer coding and implementation details, so the bank may have to rely more on sensitivity analysis and benchmarking"
+        }
+    ],
+    "stress testing": [
+        {
+            "chunk_id": 27,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                46,
+                47
+            ],
+            "relevant_statement": " Examples include ongoing monitoring of deposit counterparties and custodians, daily valuation of reserve assets and stress testing"
+        },
+        {
+            "chunk_id": 62,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                87,
+                88
+            ],
+            "relevant_statement": " In addition, supervisors may recommend that banks undertake stress testing or scenario analysis to assess risks resulting from cryptoasset exposures"
+        },
+        {
+            "chunk_id": 200,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                281,
+                282,
+                283
+            ],
+            "relevant_statement": " These loans may be treated as residential real estate exposures (rather than guaranteed loans) if the following additional conditions are met: (a) the borrower shall be contractually committed not to grant any mortgage lien without the consent of the bank that granted the loan; (b) the guarantor shall be either a bank or a financial institution subject to capital requirements comparable to those applied to banks or an insurance undertaking; (c) the guarantor shall establish a fully-funded mutual guarantee fund or equivalent protection for insurance undertakings to absorb credit risk losses, whose calibration shall be periodically reviewed by its supervisors and subject to periodic stress testing; and (d) the bank shall be contractually and legally allowed to take a mortgage on the property in the event that the guarantor fails"
+        },
+        {
+            "chunk_id": 309,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                435,
+                436
+            ],
+            "relevant_statement": "49 An IRB bank must have in place sound stress testing processes for use in the assessment of capital adequacy"
+        },
+        {
+            "chunk_id": 310,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                436,
+                437,
+                438
+            ],
+            "relevant_statement": "49 An IRB bank must have in place sound stress testing processes for use in the assessment of capital adequacy"
+        },
+        {
+            "chunk_id": 462,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                634,
+                635,
+                636
+            ],
+            "relevant_statement": " These include meeting the requirements related to the qualifying standards on CCR Management, a use test, stress testing, identification of wrong- way risk, and internal controls"
+        },
+        {
+            "chunk_id": 465,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                637,
+                638
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 638/1982 Stress testing A bank must have in place sound stress testing processes for use in the assessment of capital adequacy"
+        },
+        {
+            "chunk_id": 466,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                638,
+                639,
+                640
+            ],
+            "relevant_statement": " These stress tests may be part of bank-wide stress testing"
+        },
+        {
+            "chunk_id": 474,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                649,
+                650
+            ],
+            "relevant_statement": " Where the bank is acting as a clearing member, the bank should assess through appropriate scenario analysis and stress testing whether the level of capital held against exposures to a CCP adequately addresses the inherent risks of those transactions"
+        },
+        {
+            "chunk_id": 606,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                858,
+                859
+            ],
+            "relevant_statement": " A routine and rigorous programme of stress testing is required"
+        },
+        {
+            "chunk_id": 608,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                861,
+                862
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 862/1982 Stress testing Banks that use the IMA for determining market risk capital requirements must have in place a rigorous and comprehensive stress testing programme both at the trading desk level and at the bank-wide level"
+        },
+        {
+            "chunk_id": 609,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                862,
+                863
+            ],
+            "relevant_statement": " (2) Qualitatively, a bank\u2019s stress testing programme should evaluate the capacity of the bank\u2019s capital to absorb potential significant losses and identify steps the bank can take to reduce its risk and conserve capital"
+        },
+        {
+            "chunk_id": 924,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1311,
+                1312,
+                1313
+            ],
+            "relevant_statement": " Rigorous, forward-looking stress testing that identifies possible events or changes in market conditions that could adversely impact the bank should be performed"
+        },
+        {
+            "chunk_id": 925,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1313,
+                1314,
+                1315
+            ],
+            "relevant_statement": " Rigorous, forward-looking stress testing that identifies possible events or changes in market conditions that could adversely impact the bank should be performed"
+        },
+        {
+            "chunk_id": 927,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1316,
+                1317
+            ],
+            "relevant_statement": " For more sophisticated banks, their assessment of internal capital adequacy for market risk, at a minimum, should be based on both value-at-risk (VaR) modelling and stress testing, including an assessment of concentration risk and the assessment of illiquidity under stressful market scenarios, although all firms\u2019 assessments should include stress testing appropriate to their trading activity"
+        },
+        {
+            "chunk_id": 930,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1319,
+                1320,
+                1321
+            ],
+            "relevant_statement": "30 (1) appropriateness of the bank\u2019s capital assessment process given the nature, scope and complexity of its activities; (2) identification of large exposures and risk concentrations; (3) accuracy and completeness of data inputs into the bank\u2019s assessment process; (4) reasonableness and validity of scenarios used in the assessment process; and (5) stress testing and analysis of assumptions and inputs"
+        },
+        {
+            "chunk_id": 933,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1323,
+                1324,
+                1325
+            ],
+            "relevant_statement": "1 In addition, the ICAAP should incorporate stress testing to complement and help validate other quantitative and qualitative approaches so that bank management may have a more complete understanding of the bank\u2019s risks and the interaction of those risks under stressed conditions"
+        },
+        {
+            "chunk_id": 934,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1325,
+                1326
+            ],
+            "relevant_statement": "1 In addition, the ICAAP should incorporate stress testing to complement and help validate other quantitative and qualitative approaches so that bank management may have a more complete understanding of the bank\u2019s risks and the interaction of those risks under stressed conditions"
+        },
+        {
+            "chunk_id": 935,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1326,
+                1327,
+                1328
+            ],
+            "relevant_statement": "5 (1) adequately identifying, measuring, monitoring, controlling and mitigating these risks; (2) clearly communicating the extent and depth of these risks in an easily understandable, but accurate, manner in reports to senior management and the board of directors, as well as in published financial reports; (3) conducting ongoing stress testing to identify potential losses and liquidity needs under adverse circumstances; and (4) setting adequate minimum internal standards for allowances or liabilities for losses, capital, and contingency funding"
+        },
+        {
+            "chunk_id": 938,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1330,
+                1331
+            ],
+            "relevant_statement": " to on stress testing)"
+        },
+        {
+            "chunk_id": 940,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1332,
+                1333
+            ],
+            "relevant_statement": " These techniques include shocks to various risk factors; use of business level and firm-wide scenarios; and the use of integrated stress testing and economic capital models"
+        },
+        {
+            "chunk_id": 942,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1334,
+                1335
+            ],
+            "relevant_statement": " In addition, a bank\u2019s stress testing procedures should take account of reputational risk so management has a firm understanding of the consequences and second round effects of reputational risk"
+        },
+        {
+            "chunk_id": 945,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1338,
+                1339
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1339/1982 Sound stress testing practices Footnotes Stress testing is a critical element of risk management for banks and a core tool for banking supervisors and macroprudential authorities"
+        },
+        {
+            "chunk_id": 946,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1339,
+                1340
+            ],
+            "relevant_statement": "CEST 1339/1982 Sound stress testing practices Footnotes Stress testing is a critical element of risk management for banks and a core tool for banking supervisors and macroprudential authorities"
+        },
+        {
+            "chunk_id": 956,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1352,
+                1353
+            ],
+            "relevant_statement": "31 A bank should develop and implement an effective stress testing framework for IRRBB as part of its broader risk management and governance processes"
+        },
+        {
+            "chunk_id": 957,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1353,
+                1354
+            ],
+            "relevant_statement": "33 The identification of relevant shock and stress scenarios for IRRBB, the application of sound modelling approaches and the appropriate use of the stress testing results require the collaboration of different experts within a bank (eg traders, the treasury department, the finance department, the ALCO, the risk management and risk control departments and/or the bank\u2019s economists)"
+        },
+        {
+            "chunk_id": 958,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1354,
+                1355
+            ],
+            "relevant_statement": " See the Principles of sound stress testing practices and supervision published by the Committee in October 2018"
+        },
+        {
+            "chunk_id": 967,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1364,
+                1365,
+                1366
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1365/1982 (4) the adequacy of internal validation of IRRBB measures, including sensitivity analysis and backtesting, in particular where changes in key modelling parameters have occurred; (5) the adequacy of internal monitoring and of the bank\u2019s MIS; (6) the effectiveness of risk limits and controls that set tolerances on economic value and earnings; (7) the effectiveness of the bank\u2019s IRRBB stress testing programme; (8) the adequacy and frequency of the internal review and audit of the IRRBB management process, including independent model validation and oversight of model risk; (9) the adequacy and effectiveness of IRRBB management practices as evidenced by past and projected financial performance; (10) the effectiveness of hedging strategies used by the bank to control IRRBB; and (11) the appropriateness of the level of IRRBB (including embedded losses) in relation to the bank\u2019s capital, earnings and risk management systems"
+        },
+        {
+            "chunk_id": 985,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1388,
+                1389
+            ],
+            "relevant_statement": "13 As counterparty credit risk (CCR) represents a form of credit risk, this would include meeting this Framework\u2019s standards regarding their approaches to stress testing, \u201cresidual risks\u201d associated with credit risk mitigation techniques, and credit concentrations, as specified in the paragraphs above"
+        },
+        {
+            "chunk_id": 986,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1389,
+                1390
+            ],
+            "relevant_statement": "20 The bank must have a routine and rigorous program of stress testing in place as a supplement to the CCR analysis based on the day-to-day output of the firm\u2019s risk measurement model"
+        },
+        {
+            "chunk_id": 990,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1394,
+                1395
+            ],
+            "relevant_statement": " It should consider scenarios which may prevent it from securitising its assets as part of its stress testing (as discussed in ) and SRP30 identify the potential effect of such exposures on its liquidity, earnings and capital adequacy"
+        },
+        {
+            "chunk_id": 998,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1404,
+                1405
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1405/1982 Valuation Stress testing under the internal models approach Prudent valuation policies and procedures form the foundation on which any robust assessment of market risk capital adequacy should be built"
+        },
+        {
+            "chunk_id": 999,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1405,
+                1406,
+                1407
+            ],
+            "relevant_statement": "7 A bank must ensure that it has sufficient capital to meet the minimum capital requirements and to cover the results of its stress testing requirements specified in this framework"
+        },
+        {
+            "chunk_id": 1003,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1412,
+                1413
+            ],
+            "relevant_statement": " These risk reporting capabilities should also allow banks to conduct a flexible and effective stress testing which is capable of providing forward-looking risk assessments"
+        },
+        {
+            "chunk_id": 1004,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1413,
+                1414,
+                1415
+            ],
+            "relevant_statement": " These risk reporting capabilities should also allow banks to conduct a flexible and effective stress testing which is capable of providing forward-looking risk assessments"
+        },
+        {
+            "chunk_id": 1010,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1421,
+                1422
+            ],
+            "relevant_statement": " Adaptability will enable banks to conduct better risk management, including forecasting information, as well as to support stress testing and scenario analyses"
+        },
+        {
+            "chunk_id": 1011,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1422,
+                1423,
+                1424
+            ],
+            "relevant_statement": " Adaptability will enable banks to conduct better risk management, including forecasting information, as well as to support stress testing and scenario analyses"
+        },
+        {
+            "chunk_id": 1012,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1424,
+                1425
+            ],
+            "relevant_statement": " For example, an aggregated risk report should include, but not be limited to, the following information: capital adequacy, regulatory capital, capital and liquidity ratio projections, credit risk, market risk, operational risk, liquidity risk, stress testing results, inter- and intra-risk concentrations, and funding positions and plans"
+        },
+        {
+            "chunk_id": 1036,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1459,
+                1460
+            ],
+            "relevant_statement": " Banks are encouraged to consider reverse stress scenarios and other stress testing scenarios as appropriate (for example, the impact of natural disasters, currency crisis, etc)"
+        },
+        {
+            "chunk_id": 1037,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1460,
+                1461
+            ],
+            "relevant_statement": " Banks are encouraged to consider reverse stress scenarios and other stress testing scenarios as appropriate (for example, the impact of natural disasters, currency crisis, etc)"
+        },
+        {
+            "chunk_id": 1072,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1513,
+                1514,
+                1515,
+                1516,
+                1517
+            ],
+            "relevant_statement": " (f) Qualitative information on stress testing (eg portfolios subject to stress testing, scenarios adopted and methodologies used, and use of stress testing in risk management)"
+        },
+        {
+            "chunk_id": 1073,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1517,
+                1518,
+                1519
+            ],
+            "relevant_statement": "used, and use of stress testing in risk management)"
+        },
+        {
+            "chunk_id": 1177,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1743,
+                1744,
+                1745,
+                1746
+            ],
+            "relevant_statement": " (b) The soundness criteria on which the internal capital adequacy assessment is based (eg forward-looking stress testing) and a description of the methodologies used to achieve a capital adequacy assessment that is consistent with the soundness standards"
+        },
+        {
+            "chunk_id": 1199,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1795,
+                1796
+            ],
+            "relevant_statement": " Examples are: monitoring of economic value of equity (EVE) and net interest income (NII) in relation to established limits, hedging practices, conduct of stress testing, outcome analysis, the role of independent audit, the role and practices of the asset and liability management committee, the bank's practices to ensure appropriate model validation, and timely updates in response to changing market conditions"
+        },
+        {
+            "chunk_id": 1215,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1827,
+                1828,
+                1829
+            ],
+            "relevant_statement": " (d) An explanation of how stress testing is used"
+        },
+        {
+            "chunk_id": 1238,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1866,
+                1867,
+                1868
+            ],
+            "relevant_statement": " (25) Stress testing: comprises a range of activities from simple sensitivity analysis to more complex scenario analyses and reverse stress testing"
+        },
+        {
+            "chunk_id": 1272,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1912,
+                1913,
+                1914
+            ],
+            "relevant_statement": "34 Reference documents: BCBS, High-level considerations on , July 2022; BCBS, proportionality Principles for the effective , June management and supervision of climate-related financial risks 2022; BCBS, , October 2018; BCBS, Stress testing principles Sound Practices: implications of fintech developments for banks and bank , February 2018; BCBS, supervisors Identification and management of , October 2017; BCBS, step-in risk Corporate governance principles for , July 2015; BCBS, banks Supervisory guidance for managing risks , associated with the settlement of foreign exchange transactions February 2013; BCBS, Principles for effective risk data aggregation and , January 2013; BCBS, risk reporting Principles for the supervision of , September 2012; FSB, financial conglomerates Guidance on supervisory interaction with financial institutions on risk culture: a , April 2014"
+        },
+        {
+            "chunk_id": 1275,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1916,
+                1917
+            ],
+            "relevant_statement": " (14) The supervisor requires banks to have forward-looking stress testing programmes covering all material risks commensurate with their risk profile and systemic importance as an integral part of their risk management process"
+        },
+        {
+            "chunk_id": 1276,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1917,
+                1918,
+                1919
+            ],
+            "relevant_statement": "forward-looking stress testing programmes covering all material risks commensurate with their risk profile and systemic importance as an integral part of their risk management process"
+        },
+        {
+            "chunk_id": 1278,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1920,
+                1921
+            ],
+            "relevant_statement": " (6) The supervisor has the power to require banks to adopt a forward-looking approach to capital management (including the conduct of appropriate stress testing)"
+        },
+        {
+            "chunk_id": 1294,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1943,
+                1944
+            ],
+            "relevant_statement": " (7) The supervisor requires banks to include a variety of short-term and protracted bank-specific and market-wide liquidity stress scenarios (individually and in combination), using conservative and regularly reviewed assumptions, into their stress testing programmes for risk management purposes"
+        },
+        {
+            "chunk_id": 1676,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                2,
+                3
+            ],
+            "relevant_statement": " Models meeting this definition might be used for analyzing business strategies, informing business decisions, identifying and measuring risks, valuing exposures, instruments or positions, conducting stress testing,"
+        },
+        {
+            "chunk_id": 1677,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                3,
+                4
+            ],
+            "relevant_statement": " Models meeting this definition might be used for analyzing business strategies, informing business decisions, identifying and measuring risks, valuing exposures, instruments or positions, conducting stress testing, assessing adequacy of capital, managing client assets, measuring compliance with internal limits, maintaining the formal control apparatus of the bank, or meeting financial or regulatory reporting requirements and issuing public disclosures"
+        },
+        {
+            "chunk_id": 1683,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                8
+            ],
+            "relevant_statement": " In some cases, sensitivity analysis or other types of stress testing can be used to demonstrate that a model is indeed conservative"
+        },
+        {
+            "chunk_id": 1684,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                8,
+                9
+            ],
+            "relevant_statement": " In some cases, sensitivity analysis or other types of stress testing can be used to demonstrate that a model is indeed conservative"
+        },
+        {
+            "chunk_id": 1687,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                11,
+                12
+            ],
+            "relevant_statement": " Banks benefit from conducting model stress testing to check performance over a wide range of inputs and parameter values, including extreme values, to verify that the model is robust"
+        }
+    ],
+    "robust": [
+        {
+            "chunk_id": 8,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                18,
+                19
+            ],
+            "relevant_statement": " The advantage of the multiple indicator-based measurement approach is that it encompasses many dimensions of systemic importance, is relatively simple and is more robust than currently available model-based measurement approaches and methodologies that rely on only a small set of indicators or market variables"
+        },
+        {
+            "chunk_id": 27,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                46,
+                47
+            ],
+            "relevant_statement": " (b) A robust operational risk and resilience framework exists to ensure the availability and safe custody of the reserve assets"
+        },
+        {
+            "chunk_id": 29,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                48,
+                49
+            ],
+            "relevant_statement": " In addition, cryptoassets with stabilisation mechanisms must provide a robust legal claim against the issuer and/or underlying reserve assets and must ensure full redeemability (ie the ability to exchange cryptoassets for amounts of pre-defined assets such as cash, bonds, commodities, equities or other traditional assets) at all times and at their peg value"
+        },
+        {
+            "chunk_id": 30,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                49,
+                50
+            ],
+            "relevant_statement": " To this end, entities performing activities associated with these functions must follow 11 robust risk governance and risk control policies and practices to address risks including, but not limited to: credit, market and liquidity risks; operational risk (including outsourcing, fraud and cyber risk) and risk of loss of data; various non-financial risks, such as data integrity; operational resilience (ie operational reliability and capacity); third-party risk management; and Anti- Money Laundering/Countering the Financing of Terrorism (AML/CFT)"
+        },
+        {
+            "chunk_id": 59,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                84,
+                85
+            ],
+            "relevant_statement": " Key considerations include capacity constraints, whether self-imposed or due to insufficient computing resources; digital storage considerations; scalability of the underlying ledger technology; whether the underlying technology has been tested and had time to mature in a market environment; and robust governance around changes to the terms and conditions of the distributed ledger or cryptoassets (eg so- called 'forks' that change the underlying 'rules' of a"
+        },
+        {
+            "chunk_id": 60,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                85,
+                86
+            ],
+            "relevant_statement": " Key considerations include capacity constraints, whether self-imposed or due to insufficient computing resources; digital storage considerations; scalability of the underlying ledger technology; whether the underlying technology has been tested and had time to mature in a market environment; and robust governance around changes to the terms and conditions of the distributed ledger or cryptoassets (eg so- called 'forks' that change the underlying 'rules' of a protocol)"
+        },
+        {
+            "chunk_id": 189,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                268,
+                269
+            ],
+            "relevant_statement": " An \"investment grade\" corporate is a corporate entity that has adequate capacity to meet its financial commitments in a timely manner and its ability to do so is assessed to be robust against adverse changes in the economic cycle and business conditions"
+        },
+        {
+            "chunk_id": 190,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                269,
+                270
+            ],
+            "relevant_statement": " An \"investment grade\" corporate is a corporate entity that has adequate capacity to meet its financial commitments in a timely manner and its ability to do so is assessed to be robust against adverse changes in the economic cycle and business conditions"
+        },
+        {
+            "chunk_id": 192,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                271,
+                272,
+                273
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 272/1982 A high quality project finance exposure refers to an exposure to a project finance entity that is able to meet its financial commitments in a timely manner and its ability to do so is assessed to be robust against adverse changes in the economic cycle and business conditions"
+        },
+        {
+            "chunk_id": 223,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                312,
+                313
+            ],
+            "relevant_statement": " Therefore, banks must employ robust procedures and processes to control these risks, including strategy; consideration of the underlying credit; valuation; policies and procedures; systems; control of roll-off risks; and management of concentration risk arising from the bank\u2019s use of CRM techniques and its interaction with the bank\u2019s overall credit risk profile"
+        },
+        {
+            "chunk_id": 226,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                316,
+                317
+            ],
+            "relevant_statement": "26 Banks must have clear and robust procedures for the timely liquidation of collateral to ensure that any legal conditions required for declaring the default of the counterparty and liquidating the collateral"
+        },
+        {
+            "chunk_id": 227,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                317,
+                318
+            ],
+            "relevant_statement": "26 Banks must have clear and robust procedures for the timely liquidation of collateral to ensure that any legal conditions required for declaring the default of the counterparty and liquidating the collateral are observed, and that collateral can be liquidated promptly"
+        },
+        {
+            "chunk_id": 239,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                335,
+                336
+            ],
+            "relevant_statement": "14 (4) Credit derivatives allowing for cash settlement are recognised for capital purposes insofar as a robust valuation process is in place in order to estimate loss reliably"
+        },
+        {
+            "chunk_id": 244,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                341,
+                342,
+                343,
+                344
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 342/1982 (1) the sovereign counter-guarantee covers all credit risk elements of the exposure; (2) both the original guarantee and the counter-guarantee meet all operational requirements for guarantees, except that the counter-guarantee need not be direct and explicit to the original exposure; and (3) the supervisor is satisfied that the cover is robust and that no historical evidence suggests that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct sovereign guarantee"
+        },
+        {
+            "chunk_id": 278,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                389,
+                390,
+                391
+            ],
+            "relevant_statement": " Demand is weak and declining Financial ratios (eg debt service coverage ratio (DSCR), loan life coverage ratio, project life coverage ratio, and debt-to- equity ratio) Strong financial ratios considering the level of project risk; very robust economic assumptions Strong to acceptable financial ratios considering the level of project risk; robust project economic assumptions Standard financial ratios considering the level of project risk Aggressive financial ratios considering the level of project risk Stress analysis The project can meet its financial obligations under sustained, severely stressed economic or sectoral conditions The project can meet its financial obligations under normal stressed economic or sectoral conditions"
+        },
+        {
+            "chunk_id": 286,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                402,
+                403
+            ],
+            "relevant_statement": " Very robust economic assumptions Strong / acceptable financial ratios considering the type of asset"
+        },
+        {
+            "chunk_id": 314,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                441,
+                442
+            ],
+            "relevant_statement": "99 data period used for quantification must be sufficient to provide the bank with confidence in the accuracy and robustness of its estimates"
+        },
+        {
+            "chunk_id": 332,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                461,
+                462
+            ],
+            "relevant_statement": "121 Banks must have a robust system in place to validate the accuracy and consistency of rating systems, processes,"
+        },
+        {
+            "chunk_id": 333,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                462,
+                463
+            ],
+            "relevant_statement": "121 Banks must have a robust system in place to validate the accuracy and consistency of rating systems, processes, and the estimation of all relevant risk components"
+        },
+        {
+            "chunk_id": 336,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                465,
+                466
+            ],
+            "relevant_statement": "133 The legal mechanism by which collateral is given must be robust and ensure that the lender has clear rights over the proceeds from the collateral"
+        },
+        {
+            "chunk_id": 337,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                466,
+                467
+            ],
+            "relevant_statement": "133 The legal mechanism by which collateral is given must be robust and ensure that the lender has clear rights over the proceeds from the collateral"
+        },
+        {
+            "chunk_id": 339,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                468,
+                469
+            ],
+            "relevant_statement": "146 (1) Robust risk management on the part of the lessor with respect to the location of the asset, the use to which it is put, its age, and planned obsolescence; (2) A robust legal framework establishing the lessor\u2019s legal ownership of the asset and its ability to exercise its rights as owner in a timely fashion; and (3) The difference between the rate of depreciation of the physical asset and the rate of amortisation of the lease payments must not be so large as to overstate the credit risk mitigation attributed to the leased assets"
+        },
+        {
+            "chunk_id": 340,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                469,
+                470,
+                471,
+                472
+            ],
+            "relevant_statement": "asset, the use to which it is put, its age, and planned obsolescence; (2) A robust legal framework establishing the lessor\u2019s legal ownership of the asset and its ability to exercise its rights as owner in a timely fashion; and (3) The difference between the rate of depreciation of the physical asset and the rate of amortisation of the lease payments must not be so large as to overstate the credit risk mitigation attributed to the leased assets"
+        },
+        {
+            "chunk_id": 527,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                732,
+                733
+            ],
+            "relevant_statement": "28 Profit and loss (P&L) attribution (PLA): a method for assessing the robustness of banks\u2019 risk management models by comparing the risk-theoretical P&L predicted by trading desk risk management models with the hypothetical P&L"
+        },
+        {
+            "chunk_id": 576,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                813,
+                814,
+                815
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 814/1982 Cobalt; manganese; molybdenum (ie various minor metals) 6 Gaseous combustibles Natural gas; liquefied natural gas 45% 7 Precious metals (including gold) Gold; silver; platinum; palladium 20% 8 Grains and oilseed Corn; wheat; soybean seed; soybean oil; soybean meal; oats; palm oil; canola; barley; rapeseed seed; rapeseed oil; rapeseed meal; red bean; sorghum; coconut oil; olive oil; peanut oil; sunflower oil; rice 35% 9 Livestock and dairy Live cattle; feeder cattle; hog; poultry; lamb; fish; shrimp; milk; whey; eggs; butter; cheese 25% 10 Softs and other agriculturals Cocoa; arabica coffee; robusta coffee; tea; citrus juice; orange juice; potatoes; sugar; cotton; wool; lumber; pulp; rubber 35% 11 Other commodity Potash; fertilizer; phosphate rocks (ie various industrial materials) Rare earths; terephthalic acid; flat glass 50% For the purpose of aggregating commodity risk positions within a bucket using a correlation parameter, the correlation parameter between two sensitivities and within the same bucket, is set as follows, where:21 21"
+        },
+        {
+            "chunk_id": 648,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                914,
+                915
+            ],
+            "relevant_statement": "33 Owing to the high confidence standard and long capital horizon of the DRC requirement, robust direct validation of the DRC model through standard backtesting methods at the 99"
+        },
+        {
+            "chunk_id": 649,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                915,
+                916
+            ],
+            "relevant_statement": "robust, PDs must be computed using a methodology consistent with the IRB methodology and satisfy the following conditions"
+        },
+        {
+            "chunk_id": 711,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1006,
+                1007,
+                1008
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1008/1982 cocoa; coffee (such as arabica and robusta); tea; citrus and orange juice; potatoes; sugar; cotton; wool; lumber and pulp; rubber 11 Other commodity industrial minerals (such as potash, fertiliser and phosphate rocks), rare earths; terephthalic acid; flat glass For commodity delta and vega risks, cross-bucket correlation \u03b3 is set at 20% for bc all cross-bucket pairs that fall within bucket numbers 1 to 10"
+        },
+        {
+            "chunk_id": 712,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1008,
+                1009,
+                1010,
+                1011,
+                1012
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1008/1982 cocoa; coffee (such as arabica and robusta); tea; citrus and orange juice; potatoes; sugar; cotton; wool; lumber and pulp; rubber 11 Other commodity industrial minerals (such as potash, fertiliser and phosphate rocks), rare earths; terephthalic acid; flat glass For commodity delta and vega risks, cross-bucket correlation \u03b3 is set at 20% for bc all cross-bucket pairs that fall within bucket numbers 1 to 10"
+        },
+        {
+            "chunk_id": 774,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1106,
+                1107
+            ],
+            "relevant_statement": " (2) There should be robust market infrastructure in place"
+        },
+        {
+            "chunk_id": 910,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1292,
+                1293
+            ],
+            "relevant_statement": " Rather, the use of models is intended to produce appropriately risk-sensitive assessments of potential future exposure so as to promote robust margin requirements"
+        },
+        {
+            "chunk_id": 914,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1296,
+                1297
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1297/1982 Baseline minimum amounts and methodologies for variation margin Parties to derivatives contracts should have rigorous and robust dispute resolution procedures in place with their counterparty before the onset of a transaction"
+        },
+        {
+            "chunk_id": 915,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1297,
+                1298
+            ],
+            "relevant_statement": " Accordingly, parties to derivatives contracts should have rigorous and robust dispute resolution procedures in place with their counterparty before the onset of a transaction"
+        },
+        {
+            "chunk_id": 944,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1336,
+                1337,
+                1338
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1337/1982 A bank should also have clear and robust governance structures for the production, assignment and verification of financial instrument valuations"
+        },
+        {
+            "chunk_id": 983,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1386,
+                1387
+            ],
+            "relevant_statement": " Where supervisors are not satisfied as to the robustness, suitability or application of these policies and procedures they may direct the bank to take immediate remedial action or hold additional capital against residual risk until such time as the deficiencies in the CRM procedures are rectified to the satisfaction of the supervisor"
+        },
+        {
+            "chunk_id": 986,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1389,
+                1390
+            ],
+            "relevant_statement": " Measuring and monitoring peak exposure or potential future exposure at a confidence level chosen by the bank at both the portfolio and counterparty levels is one element of a robust limit monitoring system"
+        },
+        {
+            "chunk_id": 998,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1404,
+                1405
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1405/1982 Valuation Stress testing under the internal models approach Prudent valuation policies and procedures form the foundation on which any robust assessment of market risk capital adequacy should be built"
+        },
+        {
+            "chunk_id": 1008,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1418,
+                1419,
+                1420
+            ],
+            "relevant_statement": "25 Banks do not necessarily need to have one data model; rather, there should be robust automated reconciliation procedures where multiple models are in use"
+        },
+        {
+            "chunk_id": 1009,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1420,
+                1421
+            ],
+            "relevant_statement": "25 Banks do not necessarily need to have one data model; rather, there should be robust automated reconciliation procedures where multiple models are in use"
+        },
+        {
+            "chunk_id": 1015,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1427,
+                1428
+            ],
+            "relevant_statement": "69 For new business initiatives, supervisors may require that banks\u2019 implementation plans ensure that robust risk data aggregation is possible before allowing a new business venture or acquisition to proceed"
+        },
+        {
+            "chunk_id": 1231,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1857,
+                1858
+            ],
+            "relevant_statement": " The objective of proportionality is not to dilute the robustness of standards but to reflect jurisdictions' circumstances and supervisory capacity"
+        },
+        {
+            "chunk_id": 1234,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1860,
+                1861,
+                1862
+            ],
+            "relevant_statement": " While responsibility for designing and implementing sustainable business strategies lies with a bank's board, supervisors have an important role to play, as assessing the robustness of banks' risk culture and business models is a key component of effective supervision"
+        },
+        {
+            "chunk_id": 1235,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1862,
+                1863
+            ],
+            "relevant_statement": " While responsibility for designing and implementing sustainable business strategies lies with a bank's board, supervisors have an important role to play, as assessing the robustness of banks' risk culture and business models is a key component of effective supervision"
+        },
+        {
+            "chunk_id": 1241,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1870,
+                1871
+            ],
+            "relevant_statement": " To reinforce this aspiration, the additional criteria in the Core Principles set out supervisory practices that exceed current baseline expectations but which contribute to the robustness of individual supervisory frameworks"
+        },
+        {
+            "chunk_id": 1269,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1909,
+                1910
+            ],
+            "relevant_statement": "2026 at 07:30 CEST 1910/1982 Principle 14 - Corporate governance Footnotes Principle 14: The supervisor determines that banks have robust corporate 27 governance policies and processes covering, for example, corporate culture and values, strategic direction and oversight, group and organisational structure, the control environment, the suitability assessment process, the responsibilities of the banks' boards and senior management, and compensation practices"
+        },
+        {
+            "chunk_id": 1270,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1910,
+                1911
+            ],
+            "relevant_statement": " (2) The supervisor regularly conducts comprehensive evaluations of a bank's corporate governance policies and practices, and their implementation, and determines that the bank has robust corporate governance policies and processes commensurate with its risk profile and systemic importance"
+        },
+        {
+            "chunk_id": 1272,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1912,
+                1913,
+                1914
+            ],
+            "relevant_statement": " This extends to the development and review of contingency arrangements (including robust and credible recovery plans where warranted) that consider the specific circumstances of the bank"
+        },
+        {
+            "chunk_id": 1275,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1916,
+                1917
+            ],
+            "relevant_statement": " If warranted by its risk profile and systemic importance, the contingency arrangements include robust and credible recovery plans that consider the specific circumstances of the bank"
+        },
+        {
+            "chunk_id": 1279,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1921,
+                1922,
+                1923
+            ],
+            "relevant_statement": "40 (1) Laws, regulations or the supervisor require banks to have sound credit risk management processes that provide a comprehensive bank-wide view of all credit risk exposures, including a robust methodology for the early identification and appropriate measurement of credit losses"
+        },
+        {
+            "chunk_id": 1280,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1923,
+                1924,
+                1925
+            ],
+            "relevant_statement": "comprehensive bank-wide view of all credit risk exposures, including a robust methodology for the early identification and appropriate measurement of credit losses"
+        },
+        {
+            "chunk_id": 1282,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1926,
+                1927,
+                1928
+            ],
+            "relevant_statement": " (2) Laws, regulations or the supervisor require banks to formulate policies, processes and methodologies for consistently establishing provisions and ensuring appropriate and robust provisioning levels"
+        },
+        {
+            "chunk_id": 1293,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1941,
+                1942,
+                1943
+            ],
+            "relevant_statement": " (3) The supervisor determines that banks have a robust liquidity management framework that requires them to maintain sufficient liquidity to withstand a range of stress events and that includes appropriate policies for managing liquidity risk, which have been approved by the bank's board"
+        },
+        {
+            "chunk_id": 1294,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1943,
+                1944
+            ],
+            "relevant_statement": " (6) The supervisor determines that banks have robust liquidity contingency funding plans to handle liquidity problems"
+        },
+        {
+            "chunk_id": 1297,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1947,
+                1948,
+                1949
+            ],
+            "relevant_statement": " (6) Laws, regulations or the supervisor require banks to implement a robust information and communication technology (ICT) framework (including 73 cyber security) within their operational risk management framework and operational resilience approach"
+        },
+        {
+            "chunk_id": 1304,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                1957,
+                1958
+            ],
+            "relevant_statement": " 83 Principle 29: The supervisor determines that banks have adequate policies and 84 processes, including robust and risk-based customer due diligence (CDD) rules 85 and effective compliance functions to promote high ethical and professional standards in the financial sector and prevent the bank from being used intentionally or unintentionally for criminal activities"
+        },
+        {
+            "chunk_id": 1651,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "relevant_statement": " The principles set out what the PRA considers to be the core disciplines necessary for a robust MRM framework to manage model risk effectively across all model and risk types"
+        },
+        {
+            "chunk_id": 1655,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                7,
+                8
+            ],
+            "relevant_statement": "15 Regardless of the model type, risk type, or organisational structure, effective MRM practices are underpinned by strong governance and effective model lifecycle management, consisting of robust modelling, validation, and risk control processes"
+        },
+        {
+            "chunk_id": 1656,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                8,
+                9
+            ],
+            "relevant_statement": " Principle 3 \u2013 Model development, implementation, and use Firms should have a robust model development process with standards for model design and implementation, model selection, and model performance measurement"
+        },
+        {
+            "chunk_id": 1657,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                9,
+                10,
+                11
+            ],
+            "relevant_statement": "5 The PRA considers that active senior management and board involvement in firms\u2019 MRM governance processes are key to robust and effective MRM practices"
+        },
+        {
+            "chunk_id": 1666,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                21,
+                22
+            ],
+            "relevant_statement": " Bank of England | Prudential Regulation Authority Page 19 Principle 3 \u2013 Model development, implementation, and use Firms should have a robust model development process with standards for model design and implementation, model selection, and model performance measurement"
+        },
+        {
+            "chunk_id": 1667,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                22,
+                23
+            ],
+            "relevant_statement": " c) When the data used to develop the model are not representative of a firm\u2019s underlying portfolios, products, assets, or customer base that the model is intended to be used 16 The design objective(s) represent model performance target metrics such as measures for robustness, stability, and accuracy for accounting provisions or pricing models, discriminatory power for rating systems, and may represent a certain degree of predetermined conservatism for capital adequacy measures"
+        },
+        {
+            "chunk_id": 1672,
+            "document_name": "PRA SS1-23.pdf",
+            "page_numbers": [
+                28,
+                29
+            ],
+            "relevant_statement": " c) A range of tests should form part of model monitoring, including those determined by model developers: Bank of England | Prudential Regulation Authority Page 26 (i) benchmarking \u2013 comparing model estimates with comparable but alternative estimates; (ii) sensitivity testing \u2013 reaffirming the robustness and stability of the model; (iii) analysis of overrides \u2013 evaluate and analyse the performance of model adjustments made; (iv) parallel outcomes analysis \u2013 assessing whether new data should be included in model calibration"
+        },
+        {
+            "chunk_id": 1675,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                1,
+                2
+            ],
+            "relevant_statement": " Section IV discusses robust model development, implementation, and use"
+        },
+        {
+            "chunk_id": 1677,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                3,
+                4
+            ],
+            "relevant_statement": " Model quality can be measured in many ways: precision, accuracy, discriminatory power, robustness, stability, and reliability, to name a few"
+        },
+        {
+            "chunk_id": 1679,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                4,
+                5
+            ],
+            "relevant_statement": " Even with skilled modeling and robust validation, model risk cannot be eliminated, so other tools should be used to manage model risk effectively"
+        },
+        {
+            "chunk_id": 1680,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                5,
+                6
+            ],
+            "relevant_statement": " Model testing includes checking the model's accuracy, demonstrating that the model is robust and stable,"
+        },
+        {
+            "chunk_id": 1681,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                6,
+                7
+            ],
+            "relevant_statement": " Model testing includes checking the model's accuracy, demonstrating that the model is robust and stable, assessing potential limitations, and evaluating the model's behavior over a range of input values"
+        },
+        {
+            "chunk_id": 1682,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                7,
+                8
+            ],
+            "relevant_statement": " Reports that provide a range of estimates for different input-value scenarios and assumption values can give decision makers important [Page Break] Page 8 indications of the model's accuracy, robustness, and stability as well as information on model limitations"
+        },
+        {
+            "chunk_id": 1683,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                8
+            ],
+            "relevant_statement": " Reports that provide a range of estimates for different input-value scenarios and assumption values can give decision makers important [Page Break] Page 8 indications of the model's accuracy, robustness, and stability as well as information on model limitations"
+        },
+        {
+            "chunk_id": 1684,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                8,
+                9
+            ],
+            "relevant_statement": " As this section has explained, robust model development, implementation, and use is important to model risk management"
+        },
+        {
+            "chunk_id": 1687,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                11,
+                12
+            ],
+            "relevant_statement": " Banks benefit from conducting model stress testing to check performance over a wide range of inputs and parameter values, including extreme values, to verify that the model is robust"
+        },
+        {
+            "chunk_id": 1689,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                12,
+                13
+            ],
+            "relevant_statement": " Sensitivity analysis and other checks for robustness and stability should likewise be repeated periodically"
+        }
+    ],
+    "extreme values": [
+        {
+            "chunk_id": 609,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                862,
+                863
+            ],
+            "relevant_statement": " Applying this test would require an evaluation of the historical range of variation for volatilities and correlations and evaluation of the bank\u2019s current positions against the extreme values of the historical range"
+        },
+        {
+            "chunk_id": 610,
+            "document_name": "BaselFramework.pdf",
+            "page_numbers": [
+                863,
+                864,
+                865
+            ],
+            "relevant_statement": " Applying this test would require an evaluation of the historical range of variation for volatilities and correlations and evaluation of the bank\u2019s current positions against the extreme values of the historical range"
+        },
+        {
+            "chunk_id": 1681,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                6,
+                7
+            ],
+            "relevant_statement": " Extreme values for inputs should be evaluated to identify any boundaries of model effectiveness"
+        },
+        {
+            "chunk_id": 1687,
+            "document_name": "SR11-7.pdf",
+            "page_numbers": [
+                11,
+                12
+            ],
+            "relevant_statement": " Banks benefit from conducting model stress testing to check performance over a wide range of inputs and parameter values, including extreme values, to verify that the model is robust"
+        }
+    ]
+}

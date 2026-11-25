@@ -1,0 +1,23 @@
+{
+    "total_questions": 75,
+    "answerable_questions": 65,
+    "unanswerable_questions": 10,
+    "overall": {
+        "total_questions": 65,
+        "full_document_coverage": 0.0,
+        "partial_document_coverage": 0.0,
+        "average_keyword_coverage": 0.7883516483516483
+    },
+    "single_document": {
+        "total_questions": 52,
+        "full_document_coverage": 0.0,
+        "partial_document_coverage": 0.0,
+        "average_keyword_coverage": 0.8217948717948717
+    },
+    "cross_document": {
+        "total_questions": 13,
+        "full_document_coverage": 0.0,
+        "partial_document_coverage": 0.0,
+        "average_keyword_coverage": 0.6545787545787546
+    }
+}

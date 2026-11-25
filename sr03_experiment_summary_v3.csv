@@ -1,0 +1,5 @@
+query_number,query,target_chunk_retrieved,target_chunk_rank,target_chunk_distance
+1,How does sensitivity analysis differ from stress testing?,False,,
+2,How does sensitivity analysis differ from stress testing in model validation?,True,1.0,0.387011855840683
+3,How does sensitivity analysis differ from stress testing in banking?,False,,
+4,How does sensitivity analysis differ from stress testing when assessing model performance?,True,1.0,0.41841939091682434
